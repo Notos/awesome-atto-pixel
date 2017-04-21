@@ -32,9 +32,11 @@ O preço médio do equipamento gira hoje entre R$ 600 e R$ 700.
 ### São Paulo 
 - [IPTVIP](http://www.iptvip.com.br/) (entrega em todo o Brasil por sedex)
 
+
 # Communidade 
 ### Fóruns de suporte
 - [Open HD Forum - Pixel](http://freesatelitalhd.com/forum/index.php?topic=6898.225#lastPost)
+- [Open HD Forum - Pixel - Android rooting](https://freesatelitalhd.com/forum/index.php?topic=6926.0)
 - [Open HD Forum - Status IKaS](http://freesatelitalhd.com/forum/index.php?board=21.0)
 
 
