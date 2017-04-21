@@ -110,9 +110,9 @@ Sim
 ### Como colocar senha para nos canais adultos?
 Veja na seção de vídeos: [Bloqueando canais](#videos-relacionados)
 
-### Alguns canais não estão pegando aqui, como posso resolver?
+### Alguns canais (ou todos) não estão pegando aqui, como posso resolver?
 Comece vendo no fórum de [status dos IKaS](#fóruns-de-suporte). E verifique o seguinte:
-- O sinal de TV está chegando pra você. Muitas vezes a gente só descobre depois que o problema estava no prédio, ou no bairro. Mesmo que você tenha telefone, talvez não tenha TV, verifique.
-- Verifique se os cabos estão muito bem conectados e se o divisor (se houver) não deu algum problema.
+- Tenha certeza **absoluta** de que o sinal de TV está chegando pra você. Muitas vezes a gente só descobre depois que o problema estava no prédio, ou no bairro. Mesmo que você tenha telefone, talvez não tenha TV, verifique.
+- Verifique se os cabos estão bem conectados, e se o divisor, se houver, não deu algum problema.
 - Se você está usando CS, veja com o seu servidor.
 - Se no fórum ninguém reportou o problem a ainda, reporte você e aguarde comentários.
