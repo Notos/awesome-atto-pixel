@@ -42,7 +42,7 @@ Os itens abaixo devem ser seguidos passo-a-passo:
 - Ligue e desligue o aparelho
 
 - Para atualizar usando o arquivo de update "update-atto-pixel-v00XX.upk", faça:
-    1. Coloqueo arquivo num pendrive e plugue na USB do aparelho
+    1. Coloque o arquivo num pendrive (ou HD USB) e plugue na USB do aparelho
     1. Home (tecla "casinha") 
     1. Media Center
     1. Store
