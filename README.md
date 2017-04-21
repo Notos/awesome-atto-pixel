@@ -27,7 +27,8 @@ O preço médio do equipamento gira hoje entre R$ 600 e R$ 700.
 
 ## Communidade 
 ### Fóruns de suporte
-- [Open HD Forum](http://freesatelitalhd.com/forum/index.php?topic=6898.225#lastPost)
+- [Open HD Forum - Pixel](http://freesatelitalhd.com/forum/index.php?topic=6898.225#lastPost)
+- [Open HD Forum - Status IKaS](http://freesatelitalhd.com/forum/index.php?board=21.0)
 
 ## IKaS Free Atto Net 
 As cidades não listadas não têm suporte a IKaS Free
@@ -68,6 +69,8 @@ Sim
 ### O Pixel funciona com qualquer TV ou apenas as 4K?
 Sim, há relato de gente usando em TV 720p (1.280 x 720 pixels). Isso significa que ele vai funciona em TVs 1080i e 1080p também, além das 4K.
 
+
+
 ### Aonde estão as atualizações oficiais?
 Ainda não foram publicadas oficialmente.
 
@@ -103,3 +106,6 @@ Sim
 
 ### Como colocar senha para nos canais adultos?
 Veja na seção de vídeos: [Bloqueando canais](#videos-relacionados)
+
+### Alguns canais não estão pegando aqui, como posso resolver?
+#### Comece vendo no fórum do [status dos IKaS](#fóruns-de-suporte)
