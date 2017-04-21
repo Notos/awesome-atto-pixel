@@ -102,7 +102,11 @@ Sim
 Ainda não
 
 ### Quantos GB o cartão SD suporta?
-Esta informação ainda não existe, mas há 
+Há relato de cartão de 128GB rodando, em teoria, até  2TB. A especificação técnica oficial é a seguinte:
+- SD High Capacity (SDHC™) Plástico is an SD™ memory Plástico based on the SDA 2.0 specification.
+  SDHC capacities range from 4GB to 32GB
+- SD Extended Capacity (SDXC™) Plástico is an SD™ memory Plástico based on the SDA 3.0 specification.
+  SDXC capacities range from 64GB to 2TB
 
 ### A gravação pode ser feita tanto em HD quanto em cartão SD?
 Sim
