@@ -32,34 +32,34 @@
 Os itens abaixo devem ser seguidos passo-a-passo:
 
 - Para redefinir o Android para as configurações de fábrica, faça:
-1. Home (tecla "casinha") 
-1. Settings 
-1. Fazer backup e redefinir 
-1. Configuração original
-1. Redefinir tablet
-1. Apagar tudo
+	1. Home (tecla "casinha") 
+	1. Settings 
+	1. Fazer backup e redefinir 
+	1. Configuração original
+	1. Redefinir tablet
+	1. Apagar tudo
 
 - Ligue e desligue o aparelho
 
 - Para atualizar usando o arquivo de update "update-atto-pixel-v00XX.upk", faça:
-1. Coloqueo arquivo num pendrive e plugue na USB do aparelho
-1. Home (tecla "casinha") 
-1. Media Center
-1. Store
-1. USB3.0
-1. Vá até o arquivo e clique OK
-1. Responda YES para a pergunta "Do you want to upgrade ?"
+	1. Coloqueo arquivo num pendrive e plugue na USB do aparelho
+	1. Home (tecla "casinha") 
+	1. Media Center
+	1. Store
+	1. USB3.0
+	1. Vá até o arquivo e clique OK
+	1. Responda YES para a pergunta "Do you want to upgrade ?"
 
 - Reinicie mais uma vez, se ele não fizer isso sozinho e o Kodi deve voltar ao normal
 
 - Instale TODOS os add-ons no repositório "Atto Pixel 4K Repository":
-1. Live TV (tecla "televisão com antena")
-1. Sistema
-1. Ajustes
-1. Add-ons (EXIT até não aparecer mais ".." no menu)
-1. Instalar via repositório
-1. "Atto Pixel 4K Repository"
-1. Instalar todos os add-ons em cada categoria.
+	1. Live TV (tecla "televisão com antena")
+	1. Sistema
+	1. Ajustes
+	1. Add-ons (EXIT até não aparecer mais ".." no menu)
+	1. Instalar via repositório
+	1. "Atto Pixel 4K Repository"
+	1. Instalar todos os add-ons em cada categoria.
 
 
 # Revendedores confiáveis
