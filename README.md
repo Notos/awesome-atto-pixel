@@ -3,7 +3,7 @@
 ![logo](img/atto-pixel-1920x1280.png)
 
 # Menu
-#### [Ficha técnica](#ficha-técnica)
+#### [Ficha técnica do Pixel](#ficha-técnica)
 #### [Download de firmware](#firmwares)
 #### [Revendas](#revendedores-confiáveis)
 #### [Especificação técnica](#especificação-técnica-completa)
