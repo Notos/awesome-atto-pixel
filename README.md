@@ -7,9 +7,9 @@
 #### [Download de firmware](#firmwares)
 #### [Revendas](#revendedores-confiáveis)
 #### [Especificação técnica](#especificação-técnica-completa)
-#### [Comunidade - Fóruns de suporte](#fóruns-de-suporte)
-#### [Cidades atendidas pelo IKaS Free](#ikas-free-atto-cidades-atendidas)
-#### [Vídeos relacionados](#vídeos-relacionados)
+#### [Comunidade - Fóruns de suporte](#comunidade)
+#### [Cidades atendidas pelo IKaS Free](#ikas-free-atto---cidades-atendidas)
+#### [Vídeos](#vídeos-relacionados)
 #### [FAQ - Perguntas frequentes](#perguntas-frequentes)
 
 
