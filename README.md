@@ -63,43 +63,43 @@ As cidades não listadas não têm suporte a IKaS Free
 
 ## Perguntas frequentes
 ### O Pixel é realmente 4K?
-#### Sim
+Sim
 
 ### O Pixel funciona com qualquer TV ou apenas as 4K?
-#### Sim, há relato de gente usando em TV 720p (1.280 x 720 pixels). Isso significa que ele vai funciona em TVs 1080i e 1080p também, além das 4K.
+Sim, há relato de gente usando em TV 720p (1.280 x 720 pixels). Isso significa que ele vai funciona em TVs 1080i e 1080p também, além das 4K.
 
 ### Aonde estão as atualizações oficiais?
-#### Ainda não foram publicadas oficialmente.
+Ainda não foram publicadas oficialmente.
 
 ### KS Alternativo está disponível?
-#### Ainda não
+Ainda não
 
 ### Como instalo os Picons (logo do canal de tv)?
-#### Veja na seção de vídeos relacionados
+Veja na seção de vídeos relacionados
 
 ### Quantos sintonizadores de canais possui?
-#### Ele tem 4 ao todo, permitindo você usar 4 canais diferentes simultaneamente, com apenas uma entrada física. Em teoria você pode gravar dois canais enquanto assiste um na TV e outro no celular.
+Ele tem 4 ao todo, permitindo você usar 4 canais diferentes simultaneamente, com apenas uma entrada física. Em teoria você pode gravar dois canais enquanto assiste um na TV e outro no celular.
 
 ### Quantos modelos de Pixel vão existir?
-#### Apenas 1
+Apenas 1
 
 ### Tem opção de colocar tuner terrestre, para TV Digital via UHF?
-#### Sim, terá no futuro, mas não vem com o produto. Será necessário comprar uma placa separada, que ainda não está sendo vendida. O tuner principal vem soldado na placa, o tuner opcional será adicionado a esta mesma placa e será vendido com o espelho traseiro.
+Sim, terá no futuro, mas não vem com o produto. Será necessário comprar uma placa separada, que ainda não está sendo vendida. O tuner principal vem soldado na placa, o tuner opcional será adicionado a esta mesma placa e será vendido com o espelho traseiro.
 
 ### Eu posso ver TV direto do Kodi?
-#### Sim
+Sim
 
 ### CS está disponível?
-#### Sim
+Sim
 
 ### IPTV está funcionando?
-#### Ainda não
+Ainda não
 
 ### Quantos GB o cartão SD suporta?
-#### Esta informação ainda não existe, mas há 
+Esta informação ainda não existe, mas há 
 
 ### A gravação pode ser feita tanto em HD quanto em cartão SD?
-#### Sim
+Sim
 
 ### Como colocar senha para nos canais adultos?
-#### Veja na seção de vídeos: [Bloqueando canais](#videos-relacionados)
+Veja na seção de vídeos: [Bloqueando canais](#videos-relacionados)
