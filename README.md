@@ -6,7 +6,7 @@
 - Firmware version: **0014** (não oficial - [download](https://mega.nz/#!w3xgWIyI!DXB_Y6xAytJShOkbGGJXns6zayihxZVoBIc3a8FkehU))
 - OSCAM Version: **OSCAM 30.1.17**
 - Android version: **5.1.1** (Lollipop)
-- [Android rooting](http://www.androidcentral.com/root): **yes** (não oficial - [forum](https://freesatelitalhd.com/forum/index.php?topic=6926.0) - [download](https://mega.nz/#!gvIwDQSD!CSBfMmP5zbbZUh7ioAsfR0qu3vhvS9eGgi77u56630Q))
+- [Android rooting](http://www.androidcentral.com/root): **SIM** (não oficial - [forum](https://freesatelitalhd.com/forum/index.php?topic=6926.0) - [download](https://mega.nz/#!gvIwDQSD!CSBfMmP5zbbZUh7ioAsfR0qu3vhvS9eGgi77u56630Q))
 - Kodi version: **16** 
 - Kodi skin: **Confluence**
 
