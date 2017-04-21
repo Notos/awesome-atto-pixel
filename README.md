@@ -4,13 +4,13 @@
 
 # Menu
 #### [Ficha técnica](#ficha-técnica)
-#### [Firmwares](#firmwares)
-#### [Revendedores confiáveis](#revendedores-confiáveis)
-#### [Especificação técnica completa](#especificação-técnica-completa)
+#### [Download de firmware](#firmwares)
+#### [Revendas](#revendedores-confiáveis)
+#### [Especificação técnica](#especificação-técnica-completa)
 #### [Comunidade - Fóruns de suporte](#fóruns-de-suporte)
-#### [IKaS Free Atto](#ikas-free-atto-cidades-atendidas)
+#### [Cidades atendidas pelo IKaS Free](#ikas-free-atto-cidades-atendidas)
 #### [Vídeos relacionados](#vídeos-relacionados)
-#### [Perguntas frequentes](#perguntas-frequentes)
+#### [FAQ - Perguntas frequentes](#perguntas-frequentes)
 
 
 # Ficha técnica
