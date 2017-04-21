@@ -3,14 +3,15 @@
 ![logo](img/atto-pixel-1920x1280.png)
 
 # Menu
-- [Ficha técnica do Pixel](#ficha-técnica)
-- [Download de firmware](#firmwares)
-- [Revendas](#revendedores-confiáveis)
-- [Especificação técnica](#especificação-técnica-completa)
-- [Comunidade - Fóruns de suporte](#comunidade)
-- [Cidades atendidas pelo IKaS Free](#ikas-free-atto---cidades-atendidas)
-- [Vídeos](#vídeos-relacionados)
-- [FAQ - Perguntas frequentes](#perguntas-frequentes)
+* [Ficha técnica do Pixel](#ficha-técnica)
+* [Download de firmware](#firmwares)
+* [Procedimento de atualização do firmware](#como-atualizar-o-firmware) 
+* [Revendas](#revendedores-confiáveis)
+* [Especificação técnica](#especificação-técnica-completa)
+* [Comunidade - Fóruns de suporte](#comunidade)
+* [Cidades atendidas pelo IKaS Free](#ikas-free-atto---cidades-atendidas)
+* [Vídeos](#vídeos-relacionados)
+* [FAQ - Perguntas frequentes](#perguntas-frequentes)
 
 
 # Ficha técnica
@@ -25,6 +26,40 @@
 # Firmwares
 - **0014** (2017-04-05) - [download](https://mega.nz/#!w3xgWIyI!DXB_Y6xAytJShOkbGGJXns6zayihxZVoBIc3a8FkehU) - **NÃO OFICIAL**
 - **0013** (2017-04-01) - [download](https://mega.nz/#!YuZUSQDZ!7IrCfKZr9TNmcAX2drA6wKVouVjVz6qoU9srzikIYkk) - **NÃO OFICIAL**
+
+
+# Como atualizar o firmware
+Os itens abaixo devem ser seguidos passo-a-passo:
+
+- Redefinir o Android para as configurações de fábrica
+	# Home (tecla "casinha") 
+	# Settings 
+	# Fazer backup e redefinir 
+	# Configuração original
+	# Redefinir tablet
+	# Apagar tudo
+g
+2) Ligue e desligue o aparelho
+
+3) Usar o arquivo de atualização "update-atto-pixel-v00XX.upk":
+	- Coloqueo arquivo num pendrive e plugue na USB do aparelho
+	- Home (tecla "casinha") 
+	- Media Center
+	- Store
+	- USB3.0
+	- Vá até o arquivo e clique OK
+	- Responda YES para a pergunta "Do you want to upgrade ?"
+
+4) Agora Kodi volta tudo normal.
+
+5) Instalar TODOS os add-ons no repositório "Atto Pixel 4K Repository"
+	- Live TV (tecla "televisão com antena")
+	- Sistema
+	- Ajustes
+	- Add-ons (EXIT até não aparecer mais ".." no menu)
+	- Instalar via repositório
+	- "Atto Pixel 4K Repository"
+	- Instalar todos os add-ons em cada categoria.
 
 
 # Revendedores confiáveis
