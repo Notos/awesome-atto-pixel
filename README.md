@@ -114,5 +114,6 @@ Veja na seção de vídeos: [Bloqueando canais](#videos-relacionados)
 Comece vendo no fórum de [status dos IKaS](#fóruns-de-suporte). E verifique o seguinte:
 - Tenha certeza **absoluta** de que o sinal de TV está chegando pra você. Muitas vezes a gente só descobre depois que o problema estava no prédio, ou no bairro. Mesmo que você tenha telefone, talvez não tenha TV, verifique.
 - Verifique se os cabos estão bem conectados, e se o divisor, se houver, não deu algum problema.
+- Ligue o cabo no receptor original e veja se está tudo bem com os canais.
 - Se você está usando CS, veja com o seu servidor.
 - Se no fórum ninguém reportou o problem a ainda, reporte você e aguarde comentários.
