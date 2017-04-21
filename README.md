@@ -102,7 +102,7 @@ Sim
 Ainda não
 
 ### Quantos GB o cartão SD suporta?
-Há relato de cartão de 128GB rodando, em teoria, até  2TB. A especificação técnica oficial é a seguinte:
+Há relato de cartão de 128GB rodando. Como ele suporte cartões SDXC, o limite teórico deve ser 2TB:
 - SD High Capacity (SDHC™) Plástico is an SD™ memory Plástico based on the SDA 2.0 specification.
   SDHC capacities range from 4GB to 32GB
 - SD Extended Capacity (SDXC™) Plástico is an SD™ memory Plástico based on the SDA 3.0 specification.
