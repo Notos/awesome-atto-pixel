@@ -1,8 +1,9 @@
-![logo](img/atto-pixel-1920x1280.png)
-
 # Awesome Atto Pixel
 
-## Data sheet
+![logo](img/atto-pixel-1920x1280.png)
+
+
+# Data sheet
 - Firmware version: **0014** (não oficial - [download](https://mega.nz/#!w3xgWIyI!DXB_Y6xAytJShOkbGGJXns6zayihxZVoBIc3a8FkehU))
 - OSCAM Version: **OSCAM 30.1.17**
 - Android version: **5.1.1** (Lollipop)
@@ -11,42 +12,44 @@
 - Kodi skin: **Confluence**
 
 
-## Firmwares
+# Firmwares
 - **0014** (2017-04-05) - [download](https://mega.nz/#!w3xgWIyI!DXB_Y6xAytJShOkbGGJXns6zayihxZVoBIc3a8FkehU) - **NÃO OFICIAL**
 - **0013** (2017-04-01) - [download](https://mega.nz/#!YuZUSQDZ!7IrCfKZr9TNmcAX2drA6wKVouVjVz6qoU9srzikIYkk) - **NÃO OFICIAL**
 
 
-## Revendedores confiáveis
+# Revendedores confiáveis
 O preço médio do equipamento gira hoje entre R$ 600 e R$ 700.
 ### São Paulo 
 - [IPTVIP](http://www.iptvip.com.br/) (entrega em todo o Brasil por sedex)
 
-## Especificações técnicas (tech specs)
+
+# Especificações técnicas (tech specs)
 - [Full tech specs](https://atto.tv/pixel/specs/)
 
 
-## Communidade 
+# Communidade 
 ### Fóruns de suporte
 - [Open HD Forum - Pixel](http://freesatelitalhd.com/forum/index.php?topic=6898.225#lastPost)
 - [Open HD Forum - Status IKaS](http://freesatelitalhd.com/forum/index.php?board=21.0)
 
-## IKaS Free Atto Net 
+
+# IKaS Free Atto Net 
 As cidades não listadas não têm suporte a IKaS Free
 
-### São Paulo - SP
+#### São Paulo - SP
 - São Paulo, Araçatuba, Atibaia, Barueri, Campinas, Carapicuíba, Cotia, Diadema, Franco da Rocha, Guarulhos, Itapevi, Itaquaquecetuba, Jandira, Jundiaí, Mauá, Mogi das Cruzes, Osasco, Presidente Prudente, Santo André, Sorocaba, Samuré, Suzano, São Bernardo do Campo, São Cateano do Sul e Taboa
 
-### Rio de Janeiro - RJ
+#### Rio de Janeiro - RJ
 - Rio de Janeiro, Duque de Caxias, Nova Iguaçú, Seropédica, São Gonçalo, Niterói e Pechincha 
 
-### Paraná - PR
+#### Paraná - PR
 - Curibita, Colombo, Campo Largo, Almirante Tamandaré, Araucária, São josé dos Pinhais, Rio Branco do Sul
 
-### Rio Grande do Suk - RS
+#### Rio Grande do Suk - RS
 - Porto Alegre e Canoas
 
 
-## Videos relacionados
+# Videos relacionados
 - [Unboxing](https://www.youtube.com/watch?time_continue=2&v=cjdZ_eUyIZ8)
 - [Busca de canais por NIT](https://www.youtube.com/watch?v=_tF5DPvvc6M)
 - [Demo da troca de canais](https://www.youtube.com/watch?v=FF5fY26EAr8)
@@ -62,7 +65,7 @@ As cidades não listadas não têm suporte a IKaS Free
 - [Usando o PlaylisTV](https://www.youtube.com/watch?v=0LMqnU1i-ew)
 
 
-## Perguntas frequentes
+# Perguntas frequentes
 ### O Pixel é realmente 4K?
 Sim
 
