@@ -2,8 +2,18 @@
 
 ![logo](img/atto-pixel-1920x1280.png)
 
+# Menu
+#### [Ficha técnica](#ficha-técnica)
+#### [Firmwares](#firmwares)
+#### [Revendedores confiáveis](#revendedores-confiáveis)
+#### [Especificação técnica completa](#especificação-técnica-completa)
+#### [Comunidade - Fóruns de suporte](#fóruns-de-suporte)
+#### [IKaS Free Atto](#ikas-free-atto-cidades-atendidas)
+#### [Vídeos relacionados](#vídeos-relacionados)
+#### [Perguntas frequentes](#perguntas-frequentes)
 
-# Data sheet
+
+# Ficha técnica
 - Firmware version: **0014** (não oficial - [download](https://mega.nz/#!w3xgWIyI!DXB_Y6xAytJShOkbGGJXns6zayihxZVoBIc3a8FkehU))
 - OSCAM Version: **OSCAM 30.1.17**
 - Android version: **5.1.1** (Lollipop)
@@ -22,18 +32,13 @@ O preço médio do equipamento gira hoje entre R$ 600 e R$ 700.
 ### São Paulo 
 - [IPTVIP](http://www.iptvip.com.br/) (entrega em todo o Brasil por sedex)
 
-
-# Especificações técnicas (tech specs)
-- [Full tech specs](https://atto.tv/pixel/specs/)
-
-
 # Communidade 
 ### Fóruns de suporte
 - [Open HD Forum - Pixel](http://freesatelitalhd.com/forum/index.php?topic=6898.225#lastPost)
 - [Open HD Forum - Status IKaS](http://freesatelitalhd.com/forum/index.php?board=21.0)
 
 
-# IKaS Free Atto Net 
+# IKaS Free Atto - Cidades atendidas
 As cidades não listadas não têm suporte a IKaS Free
 
 #### São Paulo - SP
@@ -49,7 +54,7 @@ As cidades não listadas não têm suporte a IKaS Free
 - Porto Alegre e Canoas
 
 
-# Videos relacionados
+# Vídeos relacionados
 - [Unboxing](https://www.youtube.com/watch?time_continue=2&v=cjdZ_eUyIZ8)
 - [Busca de canais por NIT](https://www.youtube.com/watch?v=_tF5DPvvc6M)
 - [Demo da troca de canais](https://www.youtube.com/watch?v=FF5fY26EAr8)
@@ -121,3 +126,144 @@ Comece vendo no fórum de [status dos IKaS](#fóruns-de-suporte). E verifique o 
 - Ligue o cabo no receptor original e veja se está tudo bem com os canais.
 - Se você está usando CS, veja com o seu servidor.
 - Se no fórum ninguém reportou o problem a ainda, reporte você e aguarde comentários.
+
+
+# Especificação técnica completa
+- [Full tech specs - do fabricante](https://atto.tv/pixel/specs/)
+
+### Atualização
+- Atualização OTA (Over The Air, **em testes**), ou pelo pendrive com o uso do navegador embutido.
+
+### Peso e dimensões do aparelho
+- Peso do aparelho: 280 gramas
+- Com caixa: 890 gramas
+- Dimensões: 115 x 175  x 35 (L x W x D)
+
+### Memoria e Armazenamento
+- 4GB High speed i.NAND Flash (120 MB/s)
+- 2GB Memoria RAM (10667 MB/s)
+- 2 Portas USB 3.0 para HD Externo (NTFS/exFAT/ext4/FAT32) velocidade até 5 Gb/s cada
+- 1 Porta LAN/WiFi como cliente NAS, SMB/CIFS, Samba, Windows Grupo Doméstico
+- 1 Slot T-Flash até Micro SDXC Classe 10
+
+### Processador
+- 64-bit
+- Quad-core 64-bit high-performance ARM Cortex A53, 15000 DMIPS
+- Integrated multimedia acceleration engine NEON
+- Hardware Java acceleration
+- Integrated hardware floating-point coprocessor
+
+### 3D GPU - Unidade de Processamento Gráfico
+- High-performance multi-core GPU Mali T720
+- OpenGL ES 3.1/3.0/2.0/1.1/1.0 OpenVG 1.1
+- OpenCL 1.1/1.2 Full Profile/RenderScipt
+- Microsoft DirectX 11 FL9_3
+- Adaptive scalable texture compression (STC)
+- Pixel fill rate greater than 2.7 Gpixel/s
+
+### Conectividade
+- 1x Porta LAN até 1 giga bits por segundo
+- 1x Wireless WiFi 802.11b/g/n com antena planar embutida (Melhor ganho)
+- 1x Bluetooth até 4.0 Dual mode (V2.1+EDR/BT v3.0/BT v3.0+HS/BT v4.0)
+- Bluetooth aceita Joystick, Alto falante, teclado, mouse, fone de ouvido.
+
+### Qualidade e Saídas de Vídeo
+- Qualidade 4K HDR (High Dynamic Range 10-bits) Dolby Vision
+- Saídas 4K x 2Kp60/4K x 2Kp30
+- Aspecto Relación de 4:3 o 16:9, relacion de aspecto forzosa conversion, escala y libre.
+- Maior variedade de cores se encontram as recomendações BT.2020 Cor Avançada
+- Mecanismo de processamento de Imprex 2.0 com HDR, aumentando as taxas de contraste de cor para proporcionar uma qualidade de imagem mais realista
+- 10 bits por cor, de uma profundidade maior de bits e uma gama mais ampla de cores significa tons de cor mais finas, as smoothers transições de luz para escuro
+
+### Vídeos decodificados (HiVXE 2.0 Processing Engine)
+- H.265/HEVC Main/Main10 profile@level 5.1 high-tier, maximum 4K x 2K@60 fps and 1x1080p@30 fps simultaneous decoding
+- H.264/AVC BP/MP/HP@level 5.1; H.264/AVC MVC, maximum 4K x 2K@30 fps decoding
+- VP9, maximum 4K x 2K@60 fps decoding
+- VP6/8, maximum 1080p@60 fps decoding
+- MPEG1, maximum 1080p@60 fps decoding
+- MPEG2 SP@ML, MP@HL, maximum 1080p@60 fps decoding
+- MPEG4 SP@level 0−3, ASP@level 0−5, GMC, short header format, maximum 1080p@60 fps decoding
+- AVS baseline profile@level 6.0, AVS-P16 (AVS+), maximum 1080p@60 fps decoding
+- VC-1 SP@ML, MP@HL, AP@level 0−3, maximum 1080p@60 fps decoding
+
+### Codificação e decodificação de Áudio
+- Dolby AC-4
+- Interfaces audio-izquierda y audio-derecha na saída Interface CVBS
+- MPEG L1/L2
+- Dolby Digital / Dolby Digital Plus decodificador-Converter
+- DTS HD and DTS M6 decoding
+- Descodificación AAC-LC y HE AAC V1 / V2
+- APE, FLAC, Ogg, AMR-NB, and AMR-WB decoding
+- G.711 (u/a) audio decoding
+- Dolby MS12 decoding and audio effect
+- HE-AAC transcodificación DD (AC3)
+
+### Graphics and Display Processing (Imprex 2.0 Processing Engine)
+- HDR
+- Superposição de hardware de gráficos e entradas de vídeo multicanal
+vTecnologia de extensão de resolução super (para melhorar a reprodução de vídeo através da rede)
+- Multi-tap escala vertical e horizontal de vídeos e gráficos; Escala livre
+- Conversão de espaço de cor (CSC) com coeficientes configuráveis
+- Ajuste de crominância, luminância, contraste e saturação
+- Processamento e exibição de vídeo 3D de formato completo
+- Mecanismo bidimensional full-hardware aprimorado (TDE)
+- Completo hardware anti-aliasing y anti-parpadeo
+- Cuatro capas OSD
+- Tres capas de vídeo
+- O espelhamento de tela
+- Processamento de vídeo de ultra-baixo atraso
+- Processamento de vídeo Db / Dr
+- Melhoria e remoção de imagem
+
+### Entradas e saídas
+- 1x Cabo IN Tipo F Conector fêmea que suporta 4 travas DVB-C / C2
+- 1x Cabo IN F Tipo Conector fêmea que suporta 1 bloqueio (Opção) SBTVD
+- 1x HDMI 2.0a TX com saída HDCP 2.2, máximo 4K x 2K @ 60 fps
+- Interfaces de vídeo analógico: uma interface CVBS
+- 2 portas USB 3.0 host, compatível com USB 2.0
+- 1x slot T-Flash (MicroSD)
+- 1x RJ-45 para conector 8P8C 10/100/1000 Mb/s Ethernet port
+- 1x Jack J4 até 12V 3A Max ("Universal")
+
+
+### Streaming
+- AirPlay
+- UPnP/DLNA
+- MiraCast
+- Google Play
+- Roda NETFlix
+- Sling TV
+- Pandora
+- Spotify
+- Deezer
+- Telecine Play
+- Amazon Prime
+- CS de IPTV
+- Claro Video
+- Globo Play
+
+### Interatividade
+- Controle remoto infravermelho de qualidade top, conveniente e agradável ao toque
+- Aceita mouse e teclado sem fio com adaptador USB ou diretamente via Bluetooth
+- Aceita mouse e teclado con fio na porta USB
+- Tela de Android fácil de reconhecer por usuários de Smartfones
+- Launcher fácil, agradável e descomplicado
+- Aceita Air Mouse com Teclado (tipo controle do X1) e comando de voz
+- Aceita Joystick sem fio Bluetooth e com cabo USB
+- 10-foot user interface com Kodi. Fácil de aprender e usar.
+- Controle pelo celular ou tablete com Kore (Kodi) e/ou HITVRemote
+
+### Energia
+- CPU de baixo consumo de energia
+- Voltagem de entrada: 12V DC 2A MAX
+- Tipo de fonte SMPS: Adaptador Fonte Universal 110/220V 50/60Hz Max 0,5A
+- Tipo de plugue da fonte: NBR 14.136
+- Consumo de energia: Max 5 W e mínima de 30 mW (0,003 W)
+- Processador de espera integrado, suportando vários modos de baixa potência e menos de 30 mW de consumo de energia em modo de espera
+- Design de baixa potência, como dimensionamento de voltagem adaptativa (AVS) e escalonamento dinâmico de tensão e freqüência (DVFS)
+
+### Recepção
+- DVB-C/C2
+- SBTVD/ISBD-Tb (DVB-T) Faixa completa (opcional)
+- IPTV Streaming h265/VP9/h264
+- DVB-S2 ACM/CCM (Opcional compra separada)
