@@ -3,14 +3,14 @@
 ![logo](img/atto-pixel-1920x1280.png)
 
 # Menu
-#### [Ficha técnica do Pixel](#ficha-técnica)
-#### [Download de firmware](#firmwares)
-#### [Revendas](#revendedores-confiáveis)
-#### [Especificação técnica](#especificação-técnica-completa)
-#### [Comunidade - Fóruns de suporte](#comunidade)
-#### [Cidades atendidas pelo IKaS Free](#ikas-free-atto---cidades-atendidas)
-#### [Vídeos](#vídeos-relacionados)
-#### [FAQ - Perguntas frequentes](#perguntas-frequentes)
+- [Ficha técnica do Pixel](#ficha-técnica)
+- [Download de firmware](#firmwares)
+- [Revendas](#revendedores-confiáveis)
+- [Especificação técnica](#especificação-técnica-completa)
+- [Comunidade - Fóruns de suporte](#comunidade)
+- [Cidades atendidas pelo IKaS Free](#ikas-free-atto---cidades-atendidas)
+- [Vídeos](#vídeos-relacionados)
+- [FAQ - Perguntas frequentes](#perguntas-frequentes)
 
 
 # Ficha técnica
