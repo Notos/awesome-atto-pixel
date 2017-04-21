@@ -32,13 +32,13 @@
 Os itens abaixo devem ser seguidos passo-a-passo:
 
 - Redefinir o Android para as configurações de fábrica
-	# Home (tecla "casinha") 
-	# Settings 
-	# Fazer backup e redefinir 
-	# Configuração original
-	# Redefinir tablet
-	# Apagar tudo
-g
+	1. Home (tecla "casinha") 
+	2. Settings 
+	3. Fazer backup e redefinir 
+	4. Configuração original
+	5. Redefinir tablet
+	6. Apagar tudo
+
 2) Ligue e desligue o aparelho
 
 3) Usar o arquivo de atualização "update-atto-pixel-v00XX.upk":
