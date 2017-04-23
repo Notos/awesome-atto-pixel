@@ -143,6 +143,9 @@ Sim
 ### IPTV está funcionando?
 Ainda não
 
+### A atualização será automática ou terei que baixar arquivo?
+A atualização será automática (OTA - Over The Air), mas esta funcionalidade ainda não está pronta, atualmente (abril de 2017) em fase de testes.
+
 ### Quantos GB o cartão SD suporta?
 Há relato de cartão de 128GB rodando. Como ele suporte cartões SDXC, o limite teórico deve ser 2TB:
 - SD High Capacity (SDHC™) Plástico is an SD™ memory Plástico based on the SDA 2.0 specification.
