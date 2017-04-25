@@ -4,7 +4,7 @@
 
 # Menu
 * [Ficha técnica do Pixel](#ficha-técnica)
-* [Download de firmware](#firmwares)
+* [Downloads](#downloads)
 * [Procedimento de atualização do firmware](#como-atualizar-o-firmware) 
 * [Revendas](#revendedores-confiáveis)
 * [Especificação técnica](#especificação-técnica-completa)
@@ -23,9 +23,17 @@
 - Kodi skin: **Confluence**
 
 
-# Firmwares
+# Downloads
+## Firmwares
 - **0014** (2017-04-05) - [download](https://mega.nz/#!w3xgWIyI!DXB_Y6xAytJShOkbGGJXns6zayihxZVoBIc3a8FkehU) - **NÃO OFICIAL**
 - **0013** (2017-04-01) - [download](https://mega.nz/#!YuZUSQDZ!7IrCfKZr9TNmcAX2drA6wKVouVjVz6qoU9srzikIYkk) - **NÃO OFICIAL**
+## Android Root
+- **0001** (2017-04-14) - [download](https://mega.nz/#!gvIwDQSD!CSBfMmP5zbbZUh7ioAsfR0qu3vhvS9eGgi77u56630Q) - **NÃO OFICIAL**
+## Kodi for Pixel
+- **0001** (2017-04-01) - [download](https://mega.nz/#!huhDGZpQ!gtoqlzSQ_8qRLn80Xg77WVeJxdrc8vqVs_C5JwKz2h4) - **NÃO OFICIAL**
+## Repositories
+### Atto Official Repository
+- **0.0.3** (2017-04-01) - [download](https://mega.nz/#!pypEFBxA!ivQaj6YdrNeNu8Mih3ZcTIGA16H1DDJMlKno359iXN4) - **NÃO OFICIAL**
 
 
 # Como atualizar o firmware
