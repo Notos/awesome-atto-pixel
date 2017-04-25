@@ -35,6 +35,8 @@
 ### Repositories
 #### Atto Official Repository
 - **0.0.3** (2017-04-01) - [download](https://mega.nz/#!pypEFBxA!ivQaj6YdrNeNu8Mih3ZcTIGA16H1DDJMlKno359iXN4) - **NÃO OFICIAL**
+### Apps
+- **Vizer 2.1** (2017-04-01) - [info](https://www.edtuttors.com/vizer-v2-1-apk-aplicativo-para-assistir/) - [download](https://mega.nz/#!hnBURBqA!v7lz8KUkdmDC9ZBAur0lyzzUvxYfqWuD8vRJwWE2XDs)
 
 
 # Como atualizar o firmware
