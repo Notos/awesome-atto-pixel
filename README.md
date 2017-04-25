@@ -4,6 +4,7 @@
 
 # Menu
 * [Ficha técnica do Pixel](#ficha-técnica)
+* [Firmwares](#firmwares-para-o-pixel)
 * [Downloads](#downloads)
 * [Procedimento de atualização do firmware](#como-atualizar-o-firmware) 
 * [Revendas](#revendedores-confiáveis)
@@ -24,7 +25,7 @@
 
 
 # Downloads
-## Firmwares
+## Firmwares para o Pixel
 - **0014** (2017-04-05) - [download](https://mega.nz/#!w3xgWIyI!DXB_Y6xAytJShOkbGGJXns6zayihxZVoBIc3a8FkehU) - **NÃO OFICIAL**
 - **0013** (2017-04-01) - [download](https://mega.nz/#!YuZUSQDZ!7IrCfKZr9TNmcAX2drA6wKVouVjVz6qoU9srzikIYkk) - **NÃO OFICIAL**
 ## Android Root
