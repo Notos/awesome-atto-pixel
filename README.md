@@ -35,10 +35,10 @@
 - **0001** (2017-04-01) - [download](https://mega.nz/#!huhDGZpQ!gtoqlzSQ_8qRLn80Xg77WVeJxdrc8vqVs_C5JwKz2h4) - **NÃO OFICIAL**
 ### Repositories
 #### Atto Official Repository
-- **0.0.3** (2017-04-01) - [download](https://mega.nz/#!pypEFBxA!ivQaj6YdrNeNu8Mih3ZcTIGA16H1DDJMlKno359iXN4) - **NÃO OFICIAL**
+- **0.0.3** (2017-04-01) - [download](https://mega.nz/#!pypEFBxA!ivQaj6YdrNeNu8Mih3ZcTIGA16H1DDJMlKno359iXN4)
 ### Plugins for Kodi
-- **repository.husham.com-1.1.0003** (2017-04-25) - [download](https://mega.nz/#!pqARTYIS!sF2QKaqcfF1VKHFnZ2ZKSFwX929NhlyomiMSjW-SVpk) - **NÃO OFICIAL**
-- **plugin.video.playlistLoader-1.0.9** (2017-04-25) - [download](https://mega.nz/#!UqJ0kK4a!kFrQ_2D3cnrQ-dsmAz2EgjTLuaY07FecImEj3zTpbLQ) - **NÃO OFICIAL**
+- **repository.husham.com-1.1.0003** (2017-04-25) - [download](https://mega.nz/#!pqARTYIS!sF2QKaqcfF1VKHFnZ2ZKSFwX929NhlyomiMSjW-SVpk)
+- **plugin.video.playlistLoader-1.0.9** (2017-04-25) - [download](https://mega.nz/#!UqJ0kK4a!kFrQ_2D3cnrQ-dsmAz2EgjTLuaY07FecImEj3zTpbLQ)
 
 
 ### Apps for Android
