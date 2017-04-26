@@ -84,7 +84,8 @@ Os itens abaixo devem ser seguidos passo-a-passo:
 # Revendedores confiáveis
 O preço médio do equipamento gira hoje entre R$ 600 e R$ 700.
 ### São Paulo 
-- [IPTVIP](http://www.iptvip.com.br/) (entrega em todo o Brasil por sedex)
+- [IPTVIP](http://www.iptvip.com.br/) (entrega em todo o Brasil por Sedex)
+- [KADU SAT](http://www.kadusat.com.br/) (entrega em todo o Brasil por Sedex)
 
 
 # Communidade 
