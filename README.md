@@ -36,9 +36,16 @@
 ### Repositories
 #### Atto Official Repository
 - **0.0.3** (2017-04-01) - [download](https://mega.nz/#!pypEFBxA!ivQaj6YdrNeNu8Mih3ZcTIGA16H1DDJMlKno359iXN4) - **NÃO OFICIAL**
-### Apps
+### Plugins for Kodi
+- **repository.husham.com-1.1.0003** (2017-04-25) - [download](https://mega.nz/#!pqARTYIS!sF2QKaqcfF1VKHFnZ2ZKSFwX929NhlyomiMSjW-SVpk) - **NÃO OFICIAL**
+- **plugin.video.playlistLoader-1.0.9** (2017-04-25) - [download](https://mega.nz/#!UqJ0kK4a!kFrQ_2D3cnrQ-dsmAz2EgjTLuaY07FecImEj3zTpbLQ) - **NÃO OFICIAL**
+
+
+### Apps for Android
 - **Vizer 2.1** (2017-04-01) - [info](https://www.edtuttors.com/vizer-v2-1-apk-aplicativo-para-assistir/) - [download](https://mega.nz/#!hnBURBqA!v7lz8KUkdmDC9ZBAur0lyzzUvxYfqWuD8vRJwWE2XDs)
 
+
+https://mega.nz/#!pqARTYIS!sF2QKaqcfF1VKHFnZ2ZKSFwX929NhlyomiMSjW-SVpk
 
 # Como atualizar o firmware
 Os itens abaixo devem ser seguidos passo-a-passo:
@@ -117,7 +124,8 @@ As cidades não listadas não têm suporte a IKaS Free
 - [Instalando apk 'App' por USB](https://www.youtube.com/watch?v=c7_hFccaPcA)
 - [Instalando Picons (logos dos canais)](https://www.youtube.com/watch?v=Ol5kjDoym60)
 - [Usando o PlaylisTV](https://www.youtube.com/watch?v=0LMqnU1i-ew)
-
+- [Como Instalar o Playlist Loader](https://youtu.be/l1pjQ94dAf8)
+- [Como resolver problemas do Playlist Loader](https://youtu.be/gTRYTq8x0X0)
 
 # Perguntas frequentes
 ### O Pixel é realmente 4K?
