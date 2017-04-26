@@ -16,7 +16,7 @@
 
 
 # Ficha técnica
-- Current firmware version: **2017-04-21** [download](#firmwares-para-o-pixel) - **NÃO OFICIAL**
+- Current firmware version: **2017-04-21** - [download](#firmwares-para-o-pixel) - **NÃO OFICIAL**
 - OSCAM Version: **OSCAM 30.1.17**
 - Android version: **5.1.1** (Lollipop)
 - [Android rooting](http://www.androidcentral.com/root): **SIM** (não oficial - [forum](https://freesatelitalhd.com/forum/index.php?topic=6926.0) - [download](https://mega.nz/#!gvIwDQSD!CSBfMmP5zbbZUh7ioAsfR0qu3vhvS9eGgi77u56630Q))
