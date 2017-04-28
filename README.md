@@ -47,40 +47,6 @@
 
 https://mega.nz/#!pqARTYIS!sF2QKaqcfF1VKHFnZ2ZKSFwX929NhlyomiMSjW-SVpk
 
-# Como atualizar o firmware
-Os itens abaixo devem ser seguidos passo-a-passo:
-
-- Para redefinir o Android para as configurações de fábrica, faça:
-    1. Home (tecla "casinha") 
-    1. Settings 
-    1. Fazer backup e redefinir 
-    1. Configuração original
-    1. Redefinir tablet
-    1. Apagar tudo
-
-- Ligue e desligue o aparelho
-
-- Para atualizar usando o arquivo de update "update-atto-pixel-v00XX.upk", faça:
-    1. Coloque o arquivo em um pendrive (ou HD USB) e plugue na USB do aparelho
-    1. Home (tecla "casinha") 
-    1. Media Center
-    1. Store
-    1. USB3.0
-    1. Vá até o arquivo e clique OK
-    1. Responda YES para a pergunta "Do you want to upgrade ?"
-
-- Reinicie mais uma vez, se ele não fizer isso sozinho e o Kodi deve voltar ao normal
-
-- Instale TODOS os add-ons no repositório "Atto Pixel 4K Repository":
-    1. Live TV (tecla "televisão com antena")
-    1. Sistema
-    1. Ajustes
-    1. Add-ons (EXIT até não aparecer mais ".." no menu)
-    1. Instalar via repositório
-    1. "Atto Pixel 4K Repository"
-    1. Instalar todos os add-ons em cada categoria.
-
-
 # Revendedores confiáveis
 O preço médio do equipamento gira hoje entre R$ 600 e R$ 700.
 ### São Paulo 
@@ -128,6 +94,7 @@ As cidades não listadas não têm suporte a IKaS Free
 - [Como resolver problemas do Playlist Loader](https://youtu.be/gTRYTq8x0X0)
 - [Obtendo um melhor desempenho de rede no Kodi](https://www.youtube.com/watch?time_continue=1&v=uPo3TNMY7hA)
 - [Usando o ES File Explorer para transferir arquivos](https://www.youtube.com/watch?v=ZDZS1f2GtLw)
+- [Aumentando o buffer de rede do Kodi](https://www.youtube.com/watch?v=ZDZS1f2GtLw)
 
 
 # Perguntas frequentes
@@ -137,7 +104,43 @@ Sim
 ### O Pixel funciona com qualquer TV ou apenas as 4K?
 Sim, há relato de gente usando em TV 720p (1.280 x 720 pixels). Isso significa que ele vai funciona em TVs 1080i e 1080p também, além das 4K.
 
+# Como atualizar o firmware
+Os itens abaixo devem ser seguidos passo-a-passo:
 
+- Para redefinir o Android para as configurações de fábrica, faça:
+    1. Home (tecla "casinha") 
+    1. Settings 
+    1. Fazer backup e redefinir 
+    1. Configuração original
+    1. Redefinir tablet
+    1. Apagar tudo
+
+- Ligue e desligue o aparelho
+
+- Para atualizar usando o arquivo de update "update-atto-pixel-v00XX.upk", faça:
+    1. Coloque o arquivo em um pendrive (ou HD USB) e plugue na USB do aparelho
+    1. Home (tecla "casinha") 
+    1. Media Center
+    1. Store
+    1. USB3.0
+    1. Vá até o arquivo e clique OK
+    1. Responda YES para a pergunta "Do you want to upgrade ?"
+
+- Reinicie mais uma vez, se ele não fizer isso sozinho e o Kodi deve voltar ao normal
+
+- Instale TODOS os add-ons no repositório "Atto Pixel 4K Repository":
+    1. Live TV (tecla "televisão com antena")
+    1. Sistema
+    1. Ajustes
+    1. Add-ons (EXIT até não aparecer mais ".." no menu)
+    1. Instalar via repositório
+    1. "Atto Pixel 4K Repository"
+    1. Instalar todos os add-ons em cada categoria.
+asdasdasdasdasdasdasdasdaçsjdklnasdasd
+asdasdasdNormalmente isso é um problema do Kodi e não do Pixel. Quando falta espaço em disco no Kodi. Pra ter certeza, reinicie o Pixel, entre em Sistema > Informações sobre o sistema (menu debaixo da opção) > Armazenamento e veja se o /storage/sdcard está cheio. Se estiver você vai ter que liberar espaço pro Kodi. 
+
+### Como eu faço para liberar mais espaço para o Kodi?
+A maneira mais fácil é transferir o teu Kodi para outro disco. Este tutorial ensina como fazer: http://kodi.wiki/view/HOW-TO:Change_data_location_for_Android. 
 
 ### Aonde estão as atualizações oficiais?
 Ainda não foram publicadas oficialmente.
