@@ -148,6 +148,12 @@ Normalmente isso é um problema do Kodi e não do Pixel. Quando falta espaço em
 ### Como eu faço para liberar mais espaço para o Kodi?
 A maneira mais fácil é transferir o teu Kodi para outro disco. Este tutorial ensina como fazer: http://kodi.wiki/view/HOW-TO:Change_data_location_for_Android. 
 
+### Para que serve o "modo root"?
+'Em sistemas operacionais com base no Unix/Linux, como o Android, o root representa a possibilidade de se utilizar a plataforma como um superadministrador. Isto significa que um aparelho "rootado" tem acesso total ao sistema, sendo capaz de realizar funções e de acessar aplicativos que não estão disponíveis quando ele está "fechado"...'
+
+O texto acima é parte do artigo publicado na [TechTudo](http://www.techtudo.com.br/artigos/noticia/2013/07/para-que-serve-o-root-do-android-saiba-se-vale-pena-fazer.html). 
+Outro bom artigo na [Android Central](http://www.androidcentral.com/root).
+
 ### É possível colocar o Pixel em "modo root"?
 Sim, ele é um Android exatamente igual a outros. Oficialmente ainda não existe, mas há um [arquivo não oficial](#ficha-técnica) disponível.
  
