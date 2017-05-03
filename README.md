@@ -55,8 +55,8 @@ O preço médio do equipamento gira hoje entre R$ 600 e R$ 700.
 - [KADU SAT](http://www.kadusat.com.br/) - [Loja Online](https://www.saccinishop.com.br) - tel/zap: [19-98119-9738](whatsapp://+5519981199738) - (entrega em todo o Brasil por Sedex)
 
 
-# Communidade 
-### Fóruns de suporte
+# Comunidade 
+### gFóruns de suporte
 - [Open HD Forum - Pixel](http://freesatelitalhd.com/forum/index.php?topic=6898.225#lastPost)
 - [Open HD Forum - Pixel - Android rooting](https://freesatelitalhd.com/forum/index.php?topic=6926.0)
 - [Open HD Forum - Status IKaS](http://freesatelitalhd.com/forum/index.php?board=21.0)
