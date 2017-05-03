@@ -170,7 +170,7 @@ Sim, ele é um Android exatamente igual a outros. Oficialmente ainda não existe
     
 - Ele vai perguntar se você quer realizar update, clique em "YES";
 
-g- O Pixel vai rebootar e o Android (robô verde) vai aparecer na tela, aguarde a reinicialização completa;
+- O Pixel vai rebootar e o Android (robô verde) vai aparecer na tela, aguarde a reinicialização completa;
 
 - Vá em aplicativos e execute o **supersu**;
 
