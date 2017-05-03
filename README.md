@@ -176,7 +176,7 @@ Sim, ele é um Android exatamente igual a outros. Oficialmente ainda não existe
 
 - Ele vai dizer que precisa atualizar o binário, clique em "SIM" e "NORMAL";  
 
-- Aguarde a atualização e aceite a nova reunicialização;
+- Aguarde a atualização e aceite a nova reinicialização;
 
 - O root deverá estar estar feito.
 
