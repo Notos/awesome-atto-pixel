@@ -3,13 +3,14 @@
 ![logo](img/atto-pixel-1920x1280.png)
 
 # Menu
+
 * [Ficha técnica do Pixel](#ficha-técnica)
 * [Firmwares](#firmwares-para-o-pixel)
 * [Downloads](#downloads)
 * [Procedimento de atualização do firmware](#como-atualizar-o-firmware) 
 * [Revendas](#revendedores-confiáveis)
 * [Especificação técnica](#especificação-técnica-completa)
-* [Comunidade - Fóruns de suporte](#comunidade)
+* [Comunidade - Fóruns de suporte e WhatsApp](#comunidade)
 * [Cidades atendidas pelo IKaS Free](#ikas-free-atto---cidades-atendidas)
 * [Vídeos](#vídeos-relacionados)
 * [FAQ - Perguntas frequentes](#perguntas-frequentes)
@@ -19,7 +20,7 @@
 - Current firmware version: **2017-04-21** - [download](#firmwares-para-o-pixel) - **NÃO OFICIAL**
 - OSCAM Version: **OSCAM 30.1.16**
 - Android version: **5.1.1** (Lollipop)
-- [Android rooting](http://www.androidcentral.com/root): **SIM** (não oficial - [forum](https://freesatelitalhd.com/forum/index.php?topic=6926.0) - [download](https://mega.nz/#!gvIwDQSD!CSBfMmP5zbbZUh7ioAsfR0qu3vhvS9eGgi77u56630Q))
+- [Android rooting](http://www.androidcentral.com/root): **SIM** (não oficial - [forum](https://freesatelitalhd.com/forum/index.php?topic=6926.0) - [download](https://mega.nz/#!gvIwDQSD!CSBfMmP5zbbZUh7ioAsfR0qu3vhvS9eGgi77u56630Q) - [instalação](#como-faço-para-rootear-o-pixel))
 - Kodi version: **16** 
 - Kodi skin: **Confluence**
 
@@ -53,11 +54,15 @@ O preço médio do equipamento gira hoje entre R$ 600 e R$ 700.
 - [IPTVIP](http://www.iptvip.com.br/) (entrega em todo o Brasil por Sedex)
 - [KADU SAT](http://www.kadusat.com.br/) - [Loja Online](https://www.saccinishop.com.br) - tel/zap: [19-98119-9738](whatsapp://+5519981199738) - (entrega em todo o Brasil por Sedex)
 
+
 # Communidade 
 ### Fóruns de suporte
 - [Open HD Forum - Pixel](http://freesatelitalhd.com/forum/index.php?topic=6898.225#lastPost)
 - [Open HD Forum - Pixel - Android rooting](https://freesatelitalhd.com/forum/index.php?topic=6926.0)
 - [Open HD Forum - Status IKaS](http://freesatelitalhd.com/forum/index.php?board=21.0)
+### Grupos de WhatsApp
+[Atto Pixel Oficial](https://chat.whatsapp.com/KtJGxvU6dck4p0WBxmai3g)
+[Atto Pixel'CaboNET'](https://chat.whatsapp.com/invite/Bbt78mgQITe3ermWZE8U6O)
 
 
 # IKaS Free Atto - Cidades atendidas
@@ -136,11 +141,38 @@ Os itens abaixo devem ser seguidos passo-a-passo:
     1. Instalar via repositório
     1. "Atto Pixel 4K Repository"
     1. Instalar todos os add-ons em cada categoria.
-asdasdasdasdasdasdasdasdaçsjdklnasdasd
-asdasdasdNormalmente isso é um problema do Kodi e não do Pixel. Quando falta espaço em disco no Kodi. Pra ter certeza, reinicie o Pixel, entre em Sistema > Informações sobre o sistema (menu debaixo da opção) > Armazenamento e veja se o /storage/sdcard está cheio. Se estiver você vai ter que liberar espaço pro Kodi. 
+
+### O Pixel está dando "tela preta" e alguns comandos param de funcionar
+Normalmente isso é um problema do Kodi e não do Pixel. Quando falta espaço em disco no Kodi. Pra ter certeza, reinicie o Pixel, entre em Sistema > Informações sobre o sistema (menu debaixo da opção) > Armazenamento e veja se o /storage/sdcard está cheio. Se estiver você vai ter que liberar espaço pro Kodi. 
 
 ### Como eu faço para liberar mais espaço para o Kodi?
 A maneira mais fácil é transferir o teu Kodi para outro disco. Este tutorial ensina como fazer: http://kodi.wiki/view/HOW-TO:Change_data_location_for_Android. 
+
+### É possível colocar o Pixel em "modo root"?
+Sim, ele é um Android exatamente igual a outros. Oficialmente ainda não existe, mas há um [arquivo não oficial](#ficha-técnica) disponível.
+ 
+### E como faço para "rootear" (colocar em "modo root") o Pixel?
+- Baixe o [arquivo](#ficha-técnica) e salve ele na raiz de um pendrive ou HD usb. "RAIZ" signfica que você não deve colocar dentro de nenhuma pasta;
+ 
+- Plugue o drive na porta USB **frontal**;
+                        
+- Selecione o arquivo, indo em: 
+    1. Media Center 
+    1. Store 
+    1. [Selecione o seu drive] 
+    1. Clique no arquivo de root que você colou nele
+    
+- Ele vai perguntar se você quer realizar update, clique em "YES";
+
+- O Pixel vai rebootar, o Android vai aparecer na tela vai aparecer, aguarde a reinicialização completa;
+
+- Vá em aplicativos e execute o **supersu**;
+
+- Ele vai dizer que precisa atualizar o binário, clique em "SIM" e "NORMAL";  
+
+- Aguarde a atualização e aceite a nova reunicialização;
+
+- O root deverá estar estar feito.
 
 ### Aonde estão as atualizações oficiais?
 Ainda não foram publicadas oficialmente.
