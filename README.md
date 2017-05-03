@@ -61,8 +61,8 @@ O preço médio do equipamento gira hoje entre R$ 600 e R$ 700.
 - [Open HD Forum - Pixel - Android rooting](https://freesatelitalhd.com/forum/index.php?topic=6926.0)
 - [Open HD Forum - Status IKaS](http://freesatelitalhd.com/forum/index.php?board=21.0)
 ### Grupos de WhatsApp
-[Atto Pixel Oficial](https://chat.whatsapp.com/KtJGxvU6dck4p0WBxmai3g)
-[Atto Pixel'CaboNET'](https://chat.whatsapp.com/invite/Bbt78mgQITe3ermWZE8U6O)
+- [Atto Pixel Oficial](https://chat.whatsapp.com/KtJGxvU6dck4p0WBxmai3g)
+- [Atto Pixel'CaboNET'](https://chat.whatsapp.com/invite/Bbt78mgQITe3ermWZE8U6O)
 
 
 # IKaS Free Atto - Cidades atendidas
