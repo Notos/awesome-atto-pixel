@@ -53,7 +53,7 @@ O preço médio do equipamento gira hoje entre R$ 600 e R$ 700.
 ### São Paulo 
 - [IPTVIP](http://www.iptvip.com.br/) (entrega em todo o Brasil por Sedex)
 - [KADU SAT](http://www.kadusat.com.br/) - [Loja Online](https://www.saccinishop.com.br) - tel/zap: [19-98119-9738](whatsapp://+5519981199738) - (entrega em todo o Brasil por Sedex)
-
+- [HK Mania](mailto:hkmania@hotmail.com) - tel: 11-3225-0829 - Rua Aurora, 200 lj 228 - Santa Ifigênia (Elizabeth, Carol ou Houssen)
 
 # Comunidade 
 ### Fóruns de suporte
