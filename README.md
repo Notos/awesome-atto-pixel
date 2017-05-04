@@ -49,7 +49,7 @@
 https://mega.nz/#!pqARTYIS!sF2QKaqcfF1VKHFnZ2ZKSFwX929NhlyomiMSjW-SVpk
 
 # Revendedores confiáveis
-O preço médio do equipamento gira hoje entre R$ 600 e R$ 700.
+O preço médio do equipamento gira hoje entre R$ 560 (menor preço encontrado) e R$ 700.
 ### São Paulo (entrega em todo o brasil por Sedex) 
 - [IPTVIP](http://www.iptvip.com.br/) 
 - [KADU SAT](http://www.kadusat.com.br/) - [Loja Online](https://www.saccinishop.com.br) - tel/zap: [19-98119-9738](whatsapp://+5519981199738)
