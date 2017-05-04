@@ -95,9 +95,8 @@ As cidades não listadas não têm suporte a IKaS Free
 - [Como Instalar o Playlist Loader](https://youtu.be/l1pjQ94dAf8)
 - [Como resolver problemas do Playlist Loader](https://youtu.be/gTRYTq8x0X0)
 - [Obtendo um melhor desempenho de rede no Kodi](https://www.youtube.com/watch?time_continue=1&v=uPo3TNMY7hA)
+- [Aumentando o buffer de rede do Kodi](https://www.youtube.com/watch?time_continue=1&v=uPo3TNMY7hA)
 - [Usando o ES File Explorer para transferir arquivos](https://www.youtube.com/watch?v=ZDZS1f2GtLw)
-- [Aumentando o buffer de rede do Kodi](https://www.youtube.com/watch?v=ZDZS1f2GtLw)
-
 
 # Perguntas frequentes
 ### O Pixel é realmente 4K?
