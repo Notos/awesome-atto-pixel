@@ -180,7 +180,10 @@ Sim, ele é um Android exatamente igual a outros. Oficialmente ainda não existe
 Ainda não foram publicadas oficialmente.
 
 ### KS Alternativo está disponível?
-Ainda não
+Ainda não, mas há previsão.
+
+### Como faz pra habilitar os menus de filmes e seriados no Kodi?
+Vá em videos, crie as fontes de seriados e filmes, que o Kodi vai habilitar os menus automaticamente.
 
 ### Como instalo os Picons (logo do canal de tv)?
 Veja na seção de vídeos relacionados
