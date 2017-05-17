@@ -98,6 +98,10 @@ As cidades não listadas não têm suporte a IKaS Free
 - [Obtendo um melhor desempenho de rede no Kodi](https://www.youtube.com/watch?time_continue=1&v=uPo3TNMY7hA)
 - [Aumentando o buffer de rede do Kodi](https://www.youtube.com/watch?time_continue=1&v=uPo3TNMY7hA)
 - [Usando o ES File Explorer para transferir arquivos](https://www.youtube.com/watch?v=ZDZS1f2GtLw)
+- [Demonstração da função On-Demand](https://www.youtube.com/watch?v=vJwYPq_yLFc)
+- [Adicionando Aplicativos (arquivos .apk) via USB](https://www.youtube.com/watch?v=_q1J9GWjXlA)
+- [Adicionando Addons no Kodi](https://www.youtube.com/watch?v=WfE9uuQN1_g)
+- [Vídeo 4k - Tutorial + uso do PlaylisTV](https://www.youtube.com/watch?v=0LMqnU1i-ew&t=77s)
 
 # Perguntas frequentes
 ### O Pixel é realmente 4K?
