@@ -27,17 +27,21 @@
 
 # Downloads
 ### Firmwares para o Pixel
-- **0508** (2017-05-08) - md5: bd370abd42224ba444bca730fcf8e9f8 - [download](http://ow.ly/Zt2Q30bzcbq) - [link 2](http://ow.ly/1vE630bzcd4) - [link 3](http://ow.ly/nRIT30bzcfL) - [link 4](https://mega.nz/#!Yq5C1QIZ!R-oMRZoSCdfVCBrYVFplKwSPWD6-WiYL4zziRLSus0g)
+- **0508** (2017-05-08) - md5: bd370abd42224ba444bca730fcf8e9f8 - [download](http://ow.ly/Zt2Q30bzcbq) - [link 2](http://ow.ly/1vE630bzcd4) - [link 3](http://ow.ly/nRIT30bzcfL) - [link 4](https://mega.nz/#!Yq5C1QIZ!R-oMRZoSCdfVCBrYVFplKwSPWD6-WiYL4zziRLSus0g) - [link 5](https://mega.nz/#!0hdBhQaR!sm21AZo5pm967Br4BdYr7uamaLlPCU9NnfF_gsJgVXY)
 - **0421** (2017-04-21) - md5: b02a4da0935c9bed27603da180605e57 - [download](https://mega.nz/#!prAEQZqZ!zZ0wDezoYHATLJr0RBugfPcmS2akpAuRQqAjqD6-vkM) - [link 2](http://ow.ly/joab30b3umO) - [link 3](http://ow.ly/QK8P30b3vVU) - **NÃO OFICIAL**
 - **0014** (2017-04-05) - md5: 70ad311294adb1bf221fefa87160aeab - [download](https://mega.nz/#!w3xgWIyI!DXB_Y6xAytJShOkbGGJXns6zayihxZVoBIc3a8FkehU) - **NÃO OFICIAL**
 - **0013** (2017-04-01) - md5: 3eb7e9d81ef4c5d7bc258c04648bd438 - [download](https://mega.nz/#!YuZUSQDZ!7IrCfKZr9TNmcAX2drA6wKVouVjVz6qoU9srzikIYkk) - **NÃO OFICIAL**
 ### Android Root
 - **0001** (2017-04-14) - [download](https://mega.nz/#!gvIwDQSD!CSBfMmP5zbbZUh7ioAsfR0qu3vhvS9eGgi77u56630Q) - **NÃO OFICIAL**
 ### Kodi for Pixel
-- **0001** (2017-04-01) - [download](https://mega.nz/#!huhDGZpQ!gtoqlzSQ_8qRLn80Xg77WVeJxdrc8vqVs_C5JwKz2h4) - **NÃO OFICIAL**
+- **0002 - 16.1** (2017-05-01) - [download](https://mega.nz/#!ZuYSEQwC!vSgxcRa-RO9FNhf3E9kZrs0J1876TXg8b2fBXJYCaBs) - [link 2](http://www3.zippyshare.com/v/HXoYIVF0/file.html) 
+- **0001 - 16.0** (2017-04-01) - [download](https://mega.nz/#!huhDGZpQ!gtoqlzSQ_8qRLn80Xg77WVeJxdrc8vqVs_C5JwKz2h4) - **NÃO OFICIAL**
 ### Repositories
 - **Atto Official Repository 0.0.3** (2017-04-01) - [download](https://mega.nz/#!pypEFBxA!ivQaj6YdrNeNu8Mih3ZcTIGA16H1DDJMlKno359iXN4)
-- **Husham Repository 1.1.003** - [site](http://www.husham.com/husham-repo/) - [baixar zip do repo](https://mega.nz/#!pqARTYIS!sF2QKaqcfF1VKHFnZ2ZKSFwX929NhlyomiMSjW-SVpk)
+- **Atto repository** [download](https://drive.google.com/open?id=0B5SEgLDAf1L7RG9IY0lqVVdGWGs)
+- **Husham Repository 1.1.003** - [site](http://www.husham.com/husham-repo/) - [download](https://mega.nz/#!pqARTYIS!sF2QKaqcfF1VKHFnZ2ZKSFwX929NhlyomiMSjW-SVpk)
+- **Torrent BR** - [download](https://drive.google.com/open?id=0B5SEgLDAf1L7bGR3eEtjRTV3S1U) - [link 2](https://mega.nz/#!Vr5CxJoL!hpQaId37BKkXMQMLAt2jecE2CkhBe66Jg2rAffoxz38)
+- **Rogger 0.0.2** - [download](https://drive.google.com/open?id=0B5SEgLDAf1L7OTBqSm1pcjNaYUU) - [link 2](https://mega.nz/#!AjQgFDyb!Bo6BcxLy1F5CvN0Abb5Chw3PDviCMGf87hTxmPLKlGM)
 
 ### Plugins for Kodi
 - **repository.husham.com-1.1.0003** (2017-04-25) - [download](https://mega.nz/#!pqARTYIS!sF2QKaqcfF1VKHFnZ2ZKSFwX929NhlyomiMSjW-SVpk)
