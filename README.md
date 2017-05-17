@@ -17,7 +17,7 @@
 
 
 # Ficha técnica
-- Current firmware version: **2017-04-21** - [download](#firmwares-para-o-pixel) - **NÃO OFICIAL**
+- Current firmware version: **2017-05-08** - [download](#firmwares-para-o-pixel) - **NÃO OFICIAL**
 - OSCAM Version: **OSCAM 30.1.16**
 - Android version: **5.1.1** (Lollipop)
 - [Android rooting](http://www.androidcentral.com/root): **SIM** (não oficial - [forum](https://freesatelitalhd.com/forum/index.php?topic=6926.0) - [download](https://mega.nz/#!gvIwDQSD!CSBfMmP5zbbZUh7ioAsfR0qu3vhvS9eGgi77u56630Q) - [instalação](#e-como-faço-para-rootear-colocar-em-modo-root-o-pixel))
@@ -27,9 +27,10 @@
 
 # Downloads
 ### Firmwares para o Pixel
-- **0421** (2017-04-21) - [download](https://mega.nz/#!prAEQZqZ!zZ0wDezoYHATLJr0RBugfPcmS2akpAuRQqAjqD6-vkM) - [link 2](http://ow.ly/joab30b3umO) - [link 3](http://ow.ly/QK8P30b3vVU) - **NÃO OFICIAL**
-- **0014** (2017-04-05) - [download](https://mega.nz/#!w3xgWIyI!DXB_Y6xAytJShOkbGGJXns6zayihxZVoBIc3a8FkehU) - **NÃO OFICIAL**
-- **0013** (2017-04-01) - [download](https://mega.nz/#!YuZUSQDZ!7IrCfKZr9TNmcAX2drA6wKVouVjVz6qoU9srzikIYkk) - **NÃO OFICIAL**
+- **0508** (2017-05-08) - md5: bd370abd42224ba444bca730fcf8e9f8 - [download](http://ow.ly/Zt2Q30bzcbq) - [link 2](http://ow.ly/1vE630bzcd4) - [link 3](http://ow.ly/nRIT30bzcfL)
+- **0421** (2017-04-21) - md5: b02a4da0935c9bed27603da180605e57 - [download](https://mega.nz/#!prAEQZqZ!zZ0wDezoYHATLJr0RBugfPcmS2akpAuRQqAjqD6-vkM) - [link 2](http://ow.ly/joab30b3umO) - [link 3](http://ow.ly/QK8P30b3vVU) - **NÃO OFICIAL**
+- **0014** (2017-04-05) - md5: 70ad311294adb1bf221fefa87160aeab - [download](https://mega.nz/#!w3xgWIyI!DXB_Y6xAytJShOkbGGJXns6zayihxZVoBIc3a8FkehU) - **NÃO OFICIAL**
+- **0013** (2017-04-01) - md5: 3eb7e9d81ef4c5d7bc258c04648bd438 - [download](https://mega.nz/#!YuZUSQDZ!7IrCfKZr9TNmcAX2drA6wKVouVjVz6qoU9srzikIYkk) - **NÃO OFICIAL**
 ### Android Root
 - **0001** (2017-04-14) - [download](https://mega.nz/#!gvIwDQSD!CSBfMmP5zbbZUh7ioAsfR0qu3vhvS9eGgi77u56630Q) - **NÃO OFICIAL**
 ### Kodi for Pixel
