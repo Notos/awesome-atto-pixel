@@ -27,7 +27,7 @@
 
 # Downloads
 ### Firmwares para o Pixel
-- **0508** (2017-05-08) - md5: bd370abd42224ba444bca730fcf8e9f8 - [download](http://ow.ly/Zt2Q30bzcbq) - [link 2](http://ow.ly/1vE630bzcd4) - [link 3](http://ow.ly/nRIT30bzcfL)
+- **0508** (2017-05-08) - md5: bd370abd42224ba444bca730fcf8e9f8 - [download](http://ow.ly/Zt2Q30bzcbq) - [link 2](http://ow.ly/1vE630bzcd4) - [link 3](http://ow.ly/nRIT30bzcfL) - [link 4](https://mega.nz/#!Yq5C1QIZ!R-oMRZoSCdfVCBrYVFplKwSPWD6-WiYL4zziRLSus0g)
 - **0421** (2017-04-21) - md5: b02a4da0935c9bed27603da180605e57 - [download](https://mega.nz/#!prAEQZqZ!zZ0wDezoYHATLJr0RBugfPcmS2akpAuRQqAjqD6-vkM) - [link 2](http://ow.ly/joab30b3umO) - [link 3](http://ow.ly/QK8P30b3vVU) - **NÃO OFICIAL**
 - **0014** (2017-04-05) - md5: 70ad311294adb1bf221fefa87160aeab - [download](https://mega.nz/#!w3xgWIyI!DXB_Y6xAytJShOkbGGJXns6zayihxZVoBIc3a8FkehU) - **NÃO OFICIAL**
 - **0013** (2017-04-01) - md5: 3eb7e9d81ef4c5d7bc258c04648bd438 - [download](https://mega.nz/#!YuZUSQDZ!7IrCfKZr9TNmcAX2drA6wKVouVjVz6qoU9srzikIYkk) - **NÃO OFICIAL**
