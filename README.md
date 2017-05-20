@@ -52,7 +52,7 @@
 - **plugin.video.playlistLoader-1.0.9** (2017-04-25) - [download](https://mega.nz/#!UqJ0kK4a!kFrQ_2D3cnrQ-dsmAz2EgjTLuaY07FecImEj3zTpbLQ)
 
 ### Apps for Android
-- **Netflix** (2017-05-20) - [download](https://mega.nz/#!cnpzFSAA!bZkq8ewpP0C1bZCKh26GmG73xa_BBXSjxhmeGdScI_A)
+- **Netflix 4.16 build 200147** (2017-05-20) - [download](https://mega.nz/#!cnpzFSAA!bZkq8ewpP0C1bZCKh26GmG73xa_BBXSjxhmeGdScI_A)
 - **Vizer 2.1** (2017-04-01) - [info](https://www.edtuttors.com/vizer-v2-1-apk-aplicativo-para-assistir/) - [download](https://mega.nz/#!hnBURBqA!v7lz8KUkdmDC9ZBAur0lyzzUvxYfqWuD8vRJwWE2XDs)
 
 # Revendedores confiáveis
