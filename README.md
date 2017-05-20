@@ -88,6 +88,7 @@ As cidades não listadas não têm suporte a IKaS Free
 - [Busca de canais por NIT](https://www.youtube.com/watch?v=_tF5DPvvc6M)
 - [Demo da troca de canais](https://www.youtube.com/watch?v=FF5fY26EAr8)
 - [Video On Demand](https://www.youtube.com/watch?time_continue=2&v=vJwYPq_yLFc)
+- [Instalando o Atto Play](https://www.youtube.com/embed/riSJ7pjLRNk)
 - [Como ativar OSCAM para status IKS e CS](https://www.youtube.com/watch?v=Og6InLpaljE)
 - [Busca dos canais](https://www.youtube.com/watch?time_continue=3&v=8XeIl1Vq85Y)
 - [Bloqueando canais](https://www.youtube.com/watch?v=Nhr7bpvDI28)
@@ -147,6 +148,9 @@ Os itens abaixo devem ser seguidos passo-a-passo:
     1. "Atto Pixel 4K Repository"
     1. Instalar todos os add-ons em cada categoria.
 
+### Como faz pra instalar o Atto Play?
+Esse [post](https://freesatelitalhd.com/forum/index.php?topic=6229.msg128632#msg128632), do @leandrotsampa, explica como instalar e tem muitas informações. [Este vídeo](https://www.youtube.com/embed/riSJ7pjLRNk) também é uma excelente referência. Basicamente:
+ 
 ### O Pixel está dando "tela preta" e alguns comandos param de funcionar
 Normalmente isso é um problema do Kodi e não do Pixel. Quando falta espaço em disco no Kodi. Pra ter certeza, reinicie o Pixel, entre em Sistema > Informações sobre o sistema (menu debaixo da opção) > Armazenamento e veja se o /storage/sdcard está cheio. Se estiver você vai ter que liberar espaço pro Kodi. 
 
