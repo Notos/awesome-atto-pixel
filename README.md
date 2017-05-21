@@ -51,8 +51,8 @@
 - **repository.husham.com-1.1.0003** (2017-04-25) - [download](https://mega.nz/#!pqARTYIS!sF2QKaqcfF1VKHFnZ2ZKSFwX929NhlyomiMSjW-SVpk)
 - **plugin.video.playlistLoader-1.0.9** (2017-04-25) - [download](https://mega.nz/#!UqJ0kK4a!kFrQ_2D3cnrQ-dsmAz2EgjTLuaY07FecImEj3zTpbLQ)
 - **plugin.video.brazuca.play-2.0** (2017-01-08) - [download](https://drive.google.com/file/d/0B5SEgLDAf1L7ZTlCZjNoLWVMT1k/view?usp=drivesdk) - [link2](https://mega.nz/#!JuwjHLAb!t41seRGtf9btWm7u6ucVQUh_RSFk-eTDT_YZ1Z5ib90)
-- **repository.maverick-1.3** (2017-01-01) - [download](https://drive.google.com/open?id=0B_-x_yqwMeQKMk43dnlxYUhLZ0U) - [link 2](https://mega.nz/#!c6BXyLbZ!vNho2ZuD19saDXmpAZtNsFc7ziV0HtnWDsJbS5mycHs)
-- **plugin.video.sanctuary-0.6.7.5** (2017-01-01) - [download](https://drive.google.com/open?id=0B_-x_yqwMeQKRDA3S1E3bDNPNnc) - [link 2](https://mega.nz/#!w3B3DDaB!1jk7oecI5MaoL6MVFYPLOOokGHWIayi-ZMP57JsDk5c)
+- **repository.maverick-1.3** (2017-05-01) - [download](https://drive.google.com/open?id=0B_-x_yqwMeQKMk43dnlxYUhLZ0U) - [link 2](https://mega.nz/#!c6BXyLbZ!vNho2ZuD19saDXmpAZtNsFc7ziV0HtnWDsJbS5mycHs)
+- **plugin.video.sanctuary-0.6.7.5** (2017-04-30) - [download](https://drive.google.com/open?id=0B_-x_yqwMeQKRDA3S1E3bDNPNnc) - [link 2](https://mega.nz/#!w3B3DDaB!1jk7oecI5MaoL6MVFYPLOOokGHWIayi-ZMP57JsDk5c)
 
 ### Apps for Android
 - **Netflix 4.16 build 200147** (2017-05-20) - [download](https://mega.nz/#!cnpzFSAA!bZkq8ewpP0C1bZCKh26GmG73xa_BBXSjxhmeGdScI_A)
