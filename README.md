@@ -48,7 +48,7 @@
 - **Rogger 0.0.2** - [download](https://drive.google.com/open?id=0B5SEgLDAf1L7OTBqSm1pcjNaYUU) - [link 2](https://mega.nz/#!AjQgFDyb!Bo6BcxLy1F5CvN0Abb5Chw3PDviCMGf87hTxmPLKlGM)
 - **Super Milton 0.0.2** (2016-06-28) - [download](http://supermilton.com.br/dev/repo/supermilton.repository-0.0.2.zip) - [link 2](https://mega.nz/#!UuZ0GTTI!TUCYrtoYZFyNxC6TL_d9NxbJq4D4dtsvBLaVmHtjGP0)
 - **Maverick 1.3** (2017-05-01) - [download](https://drive.google.com/open?id=0B_-x_yqwMeQKMk43dnlxYUhLZ0U) - [link 2](https://mega.nz/#!c6BXyLbZ!vNho2ZuD19saDXmpAZtNsFc7ziV0HtnWDsJbS5mycHs)
-- **Ares Wizard** (2017-05-05) - [download](http://repo.ares-project.com/plugins/script.areswizard/script.areswizard-0.0.57.zip) - [link 2](https://mega.nz/#!UuZ0GTTI!TUCYrtoYZFyNxC6TL_d9NxbJq4D4dtsvBLaVmHtjGP0)
+- **Ares Wizard** (2017-05-05) - [Official Page](http://repo.ares-project.com/plugins/script.areswizard/) - [download](http://repo.ares-project.com/plugins/script.areswizard/script.areswizard-0.0.57.zip) - [link 2](https://mega.nz/#!UuZ0GTTI!TUCYrtoYZFyNxC6TL_d9NxbJq4D4dtsvBLaVmHtjGP0)
 
 ### Plugins for Kodi
 - **plugin.video.playlistLoader-1.0.9** (2017-04-25) - [download](https://mega.nz/#!UqJ0kK4a!kFrQ_2D3cnrQ-dsmAz2EgjTLuaY07FecImEj3zTpbLQ)
