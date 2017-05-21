@@ -256,8 +256,8 @@ Comece vendo no fórum de [status dos IKaS](#fóruns-de-suporte). E verifique o 
 ### A PlayStore não funciona comigo, o que eu faço?
 Veja nos seus aplicativos do Android se está instalado o Google Play Service, ele é fundamental para a PlayStore funcionar.
 
-### Como faço para instalar o PlayService?
-
+### Como faço para abrir o Plugin Ares no Pixel?
+Instale a versão atual (0.0.57), execute normalmente e saia da TV (pra ele desligar o pvr), abrindo um filme ou um seriado, por exemplo, que a tela do Ares vai aparecer. Normalmente ele demora pelo menos uns 15 segundos, mas no Pixel é necessário sair da TV também.
 
 # Especificação técnica completa
 - [Full tech specs - do fabricante](https://atto.tv/pixel/specs/)
