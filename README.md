@@ -118,6 +118,7 @@ As cidades não listadas não têm suporte a IKaS Free
 - [Adicionando Aplicativos (arquivos .apk) via USB](https://www.youtube.com/watch?v=_q1J9GWjXlA)
 - [Adicionando Addons no Kodi](https://www.youtube.com/watch?v=WfE9uuQN1_g)
 - [Vídeo 4k - Tutorial + uso do PlaylisTV](https://www.youtube.com/watch?v=0LMqnU1i-ew&t=77s)
+- [Kodi Livres de Erros e Ares Wizard](https://www.youtube.com/watch?v=tgVdvFI7gPM&feature=youtu.be)
 
 # Perguntas frequentes
 ### O Pixel é realmente 4K?
