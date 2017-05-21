@@ -55,6 +55,7 @@
 - **Sanctuary 0.6.7.5 - plugin.video.sanctuary-0.6.7.5** (2017-04-30) - [download](https://drive.google.com/open?id=0B_-x_yqwMeQKRDA3S1E3bDNPNnc) - [link 2](https://mega.nz/#!w3B3DDaB!1jk7oecI5MaoL6MVFYPLOOokGHWIayi-ZMP57JsDk5c)
 - **Ares Wizard 0.0.57 - script.areswizard-0.0.57** (2017-05-05) - [Official Page](http://repo.ares-project.com/plugins/script.areswizard/) - [download](http://repo.ares-project.com/plugins/script.areswizard/script.areswizard-0.0.57.zip) - [link 2](https://mega.nz/#!UuZ0GTTI!TUCYrtoYZFyNxC6TL_d9NxbJq4D4dtsvBLaVmHtjGP0)
 - **Indigo 1.0.4 - plugin.program.indigo-1.0.4** (2017-03-31) - [Official Page](http://fusion.tvaddons.ag/begin-here/) - [download](http://fusion.tvaddons.ag/begin-here/plugin.program.indigo-1.0.4.zip) - [link 2](https://mega.nz/#!onJUUT5C!78RkBr_Z-B2YwkMWGwTEMQQYzvkMX9Ma39CRgXhmnBU)
+- **Specto 2016.02.06.3 - plugin.video.specto-2016.02.06.3** (2016-02-06) - [Official Page](http://kodi.filmkodi.com/plugin.video.specto/) - [download](http://kodi.filmkodi.com/plugin.video.specto/plugin.video.specto-2016.02.06.3.zip) - [link 2](https://mega.nz/#!1y4l2A4S!5FqUX6lsZgqkvvPI_8KO3Y4NSSN3LHhwCUVLerJEVZ0)
 
 ### Apps for Android
 - **Netflix 4.16 build 200147** (2017-05-20) - [download](https://mega.nz/#!cnpzFSAA!bZkq8ewpP0C1bZCKh26GmG73xa_BBXSjxhmeGdScI_A)
