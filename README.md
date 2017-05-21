@@ -43,15 +43,16 @@
 ### Repositories
 - **Atto Official Repository 0.0.3** (2017-04-01) - [download](https://mega.nz/#!pypEFBxA!ivQaj6YdrNeNu8Mih3ZcTIGA16H1DDJMlKno359iXN4)
 - **Atto repository** [download](https://drive.google.com/open?id=0B5SEgLDAf1L7RG9IY0lqVVdGWGs)
-- **Husham Repository 1.1.003** - [site](http://www.husham.com/husham-repo/) - [download](https://mega.nz/#!pqARTYIS!sF2QKaqcfF1VKHFnZ2ZKSFwX929NhlyomiMSjW-SVpk)
+- **Husham Repository 1.1.003** (2017-04-25) - [site](http://www.husham.com/husham-repo/) - [download](https://mega.nz/#!pqARTYIS!sF2QKaqcfF1VKHFnZ2ZKSFwX929NhlyomiMSjW-SVpk)
 - **Torrent BR** - [download](https://drive.google.com/open?id=0B5SEgLDAf1L7bGR3eEtjRTV3S1U) - [link 2](https://mega.nz/#!Vr5CxJoL!hpQaId37BKkXMQMLAt2jecE2CkhBe66Jg2rAffoxz38)
 - **Rogger 0.0.2** - [download](https://drive.google.com/open?id=0B5SEgLDAf1L7OTBqSm1pcjNaYUU) - [link 2](https://mega.nz/#!AjQgFDyb!Bo6BcxLy1F5CvN0Abb5Chw3PDviCMGf87hTxmPLKlGM)
+- **Super Milton 0.0.2** (2016-06-28) - [download](http://supermilton.com.br/dev/repo/supermilton.repository-0.0.2.zip) - [link 2](https://mega.nz/#!UuZ0GTTI!TUCYrtoYZFyNxC6TL_d9NxbJq4D4dtsvBLaVmHtjGP0)
+- **Maverick 1.3** (2017-05-01) - [download](https://drive.google.com/open?id=0B_-x_yqwMeQKMk43dnlxYUhLZ0U) - [link 2](https://mega.nz/#!c6BXyLbZ!vNho2ZuD19saDXmpAZtNsFc7ziV0HtnWDsJbS5mycHs)
+- **Ares Wizard** (2017-05-05) - [download](http://repo.ares-project.com/plugins/script.areswizard/script.areswizard-0.0.57.zip) - [link 2](https://mega.nz/#!UuZ0GTTI!TUCYrtoYZFyNxC6TL_d9NxbJq4D4dtsvBLaVmHtjGP0)
 
 ### Plugins for Kodi
-- **repository.husham.com-1.1.0003** (2017-04-25) - [download](https://mega.nz/#!pqARTYIS!sF2QKaqcfF1VKHFnZ2ZKSFwX929NhlyomiMSjW-SVpk)
 - **plugin.video.playlistLoader-1.0.9** (2017-04-25) - [download](https://mega.nz/#!UqJ0kK4a!kFrQ_2D3cnrQ-dsmAz2EgjTLuaY07FecImEj3zTpbLQ)
 - **plugin.video.brazuca.play-2.0** (2017-01-08) - [download](https://drive.google.com/file/d/0B5SEgLDAf1L7ZTlCZjNoLWVMT1k/view?usp=drivesdk) - [link2](https://mega.nz/#!JuwjHLAb!t41seRGtf9btWm7u6ucVQUh_RSFk-eTDT_YZ1Z5ib90)
-- **repository.maverick-1.3** (2017-05-01) - [download](https://drive.google.com/open?id=0B_-x_yqwMeQKMk43dnlxYUhLZ0U) - [link 2](https://mega.nz/#!c6BXyLbZ!vNho2ZuD19saDXmpAZtNsFc7ziV0HtnWDsJbS5mycHs)
 - **plugin.video.sanctuary-0.6.7.5** (2017-04-30) - [download](https://drive.google.com/open?id=0B_-x_yqwMeQKRDA3S1E3bDNPNnc) - [link 2](https://mega.nz/#!w3B3DDaB!1jk7oecI5MaoL6MVFYPLOOokGHWIayi-ZMP57JsDk5c)
 
 ### Apps for Android
