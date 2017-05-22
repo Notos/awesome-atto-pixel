@@ -48,6 +48,7 @@
 - **Rogger 0.0.2** - [download](https://drive.google.com/open?id=0B5SEgLDAf1L7OTBqSm1pcjNaYUU) - [link 2](https://mega.nz/#!AjQgFDyb!Bo6BcxLy1F5CvN0Abb5Chw3PDviCMGf87hTxmPLKlGM)
 - **Super Milton 0.0.2** (2016-06-28) - [download](http://supermilton.com.br/dev/repo/supermilton.repository-0.0.2.zip) - [link 2](https://mega.nz/#!UuZ0GTTI!TUCYrtoYZFyNxC6TL_d9NxbJq4D4dtsvBLaVmHtjGP0)
 - **Maverick 1.3** (2017-05-01) - [download](https://drive.google.com/open?id=0B_-x_yqwMeQKMk43dnlxYUhLZ0U) - [link 2](https://mega.nz/#!c6BXyLbZ!vNho2ZuD19saDXmpAZtNsFc7ziV0HtnWDsJbS5mycHs)
+- **Community Repository 9.9.5** - [Official Page](http://thecommunityrepo.net16.net/zip/) - [download](http://thecommunityrepo.net16.net/zip/) [link 2](https://drive.google.com/file/d/0B_8JsjegwRNBbF9wS2VyODcwQU0/view) - [link 3](https://mega.nz/#!QuZkBJ6A!MQ5shrgc15aQv-JUvUt2imLvPR2nV-t4clFj_S26vDY)
 
 ### Kodi Plugins
 - **PlayList Loader - plugin.video.playlistLoader-1.0.9** (2017-04-25) - [download](https://mega.nz/#!UqJ0kK4a!kFrQ_2D3cnrQ-dsmAz2EgjTLuaY07FecImEj3zTpbLQ)
