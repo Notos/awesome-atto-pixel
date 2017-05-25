@@ -49,6 +49,7 @@
 - **Super Milton 0.0.2** (2016-06-28) - [download](http://supermilton.com.br/dev/repo/supermilton.repository-0.0.2.zip) - [link 2](https://mega.nz/#!UuZ0GTTI!TUCYrtoYZFyNxC6TL_d9NxbJq4D4dtsvBLaVmHtjGP0)
 - **Maverick 1.3** (2017-05-01) - [download](https://drive.google.com/open?id=0B_-x_yqwMeQKMk43dnlxYUhLZ0U) - [link 2](https://mega.nz/#!c6BXyLbZ!vNho2ZuD19saDXmpAZtNsFc7ziV0HtnWDsJbS5mycHs)
 - **Community Repository 9.9.5** - [Official Page](http://thecommunityrepo.net16.net/zip/) - [download](http://thecommunityrepo.net16.net/zip/) [link 2](https://drive.google.com/file/d/0B_8JsjegwRNBbF9wS2VyODcwQU0/view) - [link 3](https://mega.nz/#!QuZkBJ6A!MQ5shrgc15aQv-JUvUt2imLvPR2nV-t4clFj_S26vDY)
+- **Exodus 1.0.1** (2016-05-31) - [Official Page](http://fusion.tvaddons.ag/kodi-repos/english/) - [download](http://fusion.tvaddons.ag/kodi-repos/english/repository.exodus-1.0.1.zip) - [link 2](https://mega.nz/#!5ypBkRxK!F6-_z10XlUQPxLoQSHzyLaLJ1c2tfCQoZJS-RFydvWo)
 
 ### Kodi Plugins
 - **PlayList Loader - plugin.video.playlistLoader-1.0.9** (2017-04-25) - [download](https://mega.nz/#!UqJ0kK4a!kFrQ_2D3cnrQ-dsmAz2EgjTLuaY07FecImEj3zTpbLQ)
@@ -60,7 +61,6 @@
 - **Ares Wizard 0.0.57 - script.areswizard-0.0.57** (2017-05-05) - [Official Page](http://repo.ares-project.com/plugins/script.areswizard/) - [download](http://repo.ares-project.com/plugins/script.areswizard/script.areswizard-0.0.57.zip) - [link 2](https://mega.nz/#!UuZ0GTTI!TUCYrtoYZFyNxC6TL_d9NxbJq4D4dtsvBLaVmHtjGP0)
 - **Indigo 1.0.4 - plugin.program.indigo-1.0.4** (2017-03-31) - [Official Page](http://fusion.tvaddons.ag/begin-here/) - [download](http://fusion.tvaddons.ag/begin-here/plugin.program.indigo-1.0.4.zip) - [link 2](https://mega.nz/#!onJUUT5C!78RkBr_Z-B2YwkMWGwTEMQQYzvkMX9Ma39CRgXhmnBU)
 - **Specto 2016.02.06.3 - plugin.video.specto-2016.02.06.3** (2016-02-06) - [Official Page](http://kodi.filmkodi.com/plugin.video.specto/) - [download](http://kodi.filmkodi.com/plugin.video.specto/plugin.video.specto-2016.02.06.3.zip) - [link 2](https://mega.nz/#!1y4l2A4S!5FqUX6lsZgqkvvPI_8KO3Y4NSSN3LHhwCUVLerJEVZ0)
-- **Exodus 1.0.1 - repository.exodus-1.0.1p** (2016-05-31) - [Official Page](http://fusion.tvaddons.ag/kodi-repos/english/) - [download](http://fusion.tvaddons.ag/kodi-repos/english/repository.exodus-1.0.1.zip) - [link 2](https://mega.nz/#!5ypBkRxK!F6-_z10XlUQPxLoQSHzyLaLJ1c2tfCQoZJS-RFydvWo)
 
 ### Apps for Android
 - **Netflix 4.16 build 200147** (2017-05-20) - [download](https://mega.nz/#!cnpzFSAA!bZkq8ewpP0C1bZCKh26GmG73xa_BBXSjxhmeGdScI_A)
