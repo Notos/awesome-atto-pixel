@@ -82,7 +82,7 @@ O preço médio do equipamento gira hoje entre R$ 560 (menor preço encontrado) 
 ### Grupos de WhatsApp
 - Atto Pixel Oficial - [convite](https://chat.whatsapp.com/KtJGxvU6dck4p0WBxmai3g)
 - Atto Pixel'CaboNET' - [convite](https://chat.whatsapp.com/invite/Bbt78mgQITe3ermWZE8U6O)
-
+- Android Média Center - [convite](https://chat.whatsapp.com/IHwKOpZLxWICLUyBW3qCDF)
 
 # IKaS Free Atto - Cidades atendidas
 As cidades não listadas não têm suporte a IKaS Free
