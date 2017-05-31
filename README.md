@@ -10,7 +10,7 @@
 * [Procedimento de atualização do firmware](#como-atualizar-o-firmware) 
 * [Revendas](#revendedores-confiáveis)
 * [Especificação técnica](#especificação-técnica-completa)
-* [Comunidade - Fóruns de suporte e WhatsApp](#comunidade)
+* [Comunidade - Fóruns de suporte,  WhatsApp e Telegram](#comunidade)
 * [Cidades atendidas pelo IKaS Free](#ikas-free-atto---cidades-atendidas)
 * [Vídeos](#vídeos-relacionados)
 * [FAQ - Perguntas frequentes](#perguntas-frequentes)
@@ -79,10 +79,12 @@ O preço médio do equipamento gira hoje entre R$ 560 (menor preço encontrado) 
 - [Open HD Forum - Pixel](http://freesatelitalhd.com/forum/index.php?topic=6898.225#lastPost)
 - [Open HD Forum - Pixel - Android rooting](https://freesatelitalhd.com/forum/index.php?topic=6926.0)
 - [Open HD Forum - Status IKaS](http://freesatelitalhd.com/forum/index.php?board=21.0)
-### Grupos de WhatsApp
-- Atto Pixel Oficial - [convite](https://chat.whatsapp.com/KtJGxvU6dck4p0WBxmai3g)
-- Atto Pixel'CaboNET' - [convite](https://chat.whatsapp.com/invite/Bbt78mgQITe3ermWZE8U6O)
-- Android Média Center - [convite](https://chat.whatsapp.com/IHwKOpZLxWICLUyBW3qCDF)
+### Grupos de WhatsApp e Telegram
+- Atto Pixel Oficial - [convite - WhatsApp](https://chat.whatsapp.com/KtJGxvU6dck4p0WBxmai3g)
+- Atto Pixel'CaboNET' - [convite - WhatsApp](https://chat.whatsapp.com/invite/Bbt78mgQITe3ermWZE8U6O)
+- Android Média Center - [convite - WhatsApp](https://chat.whatsapp.com/IHwKOpZLxWICLUyBW3qCDF)
+- Android Mídia Center - [convite - Telegram](https://t.me/joinchat/AAAAAD_UHoVSkO-UFX2IBA)
+- CineClub - [Telegram Channel](https://telegram.me/AppCineClub) 
 
 # IKaS Free Atto - Cidades atendidas
 As cidades não listadas não têm suporte a IKaS Free
