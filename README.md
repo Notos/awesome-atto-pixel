@@ -65,6 +65,7 @@
 ### Apps for Android
 - **Netflix 4.16 build 200147** (2017-05-20) - [download](https://mega.nz/#!cnpzFSAA!bZkq8ewpP0C1bZCKh26GmG73xa_BBXSjxhmeGdScI_A)
 - **Vizer 2.1.0** (2017-04-01) - [info](https://www.edtuttors.com/vizer-v2-1-apk-aplicativo-para-assistir/) - [download](https://mega.nz/#!hnBURBqA!v7lz8KUkdmDC9ZBAur0lyzzUvxYfqWuD8vRJwWE2XDs)
+- **Spotify For AndroidTV 1.3.1** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!IyAB0BRQ!vSzFinsRwQbuOBeggNg1YxDRXjpVE9VBToZX8v1Ry64)
 - **Spotify 8.4.4** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!tuJV2IBI!Vn5tSosHBURXiTTs4IjXuppxVCIj-Pq_G00qq_REMKU)
  
 # Revendedores confiáveis
