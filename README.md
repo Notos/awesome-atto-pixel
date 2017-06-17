@@ -95,7 +95,7 @@ As cidades não listadas não têm suporte a IKaS Free
 - São Paulo, Araçatuba, Atibaia, Barueri, Campinas, Carapicuíba, Cotia, Diadema, Franco da Rocha, Guarulhos, Itapevi, Itaquaquecetuba, Jandira, Jundiaí, Mauá, Mogi das Cruzes, Osasco, Presidente Prudente, Santo André, Sorocaba, Samuré, Suzano, São Bernardo do Campo, São Cateano do Sul e Taboa
 
 #### Rio de Janeiro - RJ
-- Rio de Janeiro, Duque de Caxias, Nova Iguaçú, Seropédica, São Gonçalo, Niterói e Pechincha 
+- Rio de Janeiro (Grande Rio, incluindo Pechincha), Duque de Caxias, Nova Iguaçú, Seropédica, São Gonçalo, Niterói e Rio das Ostras  
 
 #### Paraná - PR
 - Curibita, Colombo, Campo Largo, Almirante Tamandaré, Araucária, São josé dos Pinhais, Rio Branco do Sul
