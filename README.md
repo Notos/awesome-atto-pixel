@@ -28,7 +28,8 @@
 # Downloads
 
 ### Firmwares para o Pixel
-- **0508** (2017-05-08) - md5: bd370abd42224ba444bca730fcf8e9f8 - [download](http://ow.ly/Zt2Q30bzcbq) - [link 2](http://ow.ly/1vE630bzcd4) - [link 3](http://ow.ly/nRIT30bzcfL) - [link 4](https://mega.nz/#!Yq5C1QIZ!R-oMRZoSCdfVCBrYVFplKwSPWD6-WiYL4zziRLSus0g) - [link 5](https://mega.nz/#!0hdBhQaR!sm21AZo5pm967Br4BdYr7uamaLlPCU9NnfF_gsJgVXY)
+- **0629** (2017-06-29) - md5: f43d1b227da39aec65b0b40d16ae9569 - [download](http://ow.ly/vF1V30d7me4) - [link 2](http://ow.ly/M7UB30d7mwU) - [link 3](http://ow.ly/qiWF30d7mAS) - [link 4](http://ow.ly/AEth30d7wL0) - **NÃO OFICIAL**
+- **0508** (2017-05-08) - md5: bd370abd42224ba444bca730fcf8e9f8 - [download](http://ow.ly/Zt2Q30bzcbq) - [link 2](http://ow.ly/1vE630bzcd4) - [link 3](http://ow.ly/nRIT30bzcfL) - [link 4](https://mega.nz/#!Yq5C1QIZ!R-oMRZoSCdfVCBrYVFplKwSPWD6-WiYL4zziRLSus0g) - [link 5](https://mega.nz/#!0hdBhQaR!sm21AZo5pm967Br4BdYr7uamaLlPCU9NnfF_gsJgVXY) - **OVER THE AIR**
 - **0421** (2017-04-21) - md5: b02a4da0935c9bed27603da180605e57 - [download](https://mega.nz/#!prAEQZqZ!zZ0wDezoYHATLJr0RBugfPcmS2akpAuRQqAjqD6-vkM) - [link 2](http://ow.ly/joab30b3umO) - [link 3](http://ow.ly/QK8P30b3vVU) - **NÃO OFICIAL**
 - **0014** (2017-04-05) - md5: 70ad311294adb1bf221fefa87160aeab - [download](https://mega.nz/#!w3xgWIyI!DXB_Y6xAytJShOkbGGJXns6zayihxZVoBIc3a8FkehU) - **NÃO OFICIAL**
 - **0013** (2017-04-01) - md5: 3eb7e9d81ef4c5d7bc258c04648bd438 - [download](https://mega.nz/#!YuZUSQDZ!7IrCfKZr9TNmcAX2drA6wKVouVjVz6qoU9srzikIYkk) - **NÃO OFICIAL**
@@ -67,6 +68,30 @@
 - **Vizer 2.1.0** (2017-04-01) - [info](https://www.edtuttors.com/vizer-v2-1-apk-aplicativo-para-assistir/) - [download](https://mega.nz/#!hnBURBqA!v7lz8KUkdmDC9ZBAur0lyzzUvxYfqWuD8vRJwWE2XDs)
 - **Spotify For AndroidTV 1.3.1** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!IyAB0BRQ!vSzFinsRwQbuOBeggNg1YxDRXjpVE9VBToZX8v1Ry64)
 - **Spotify 8.4.4** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!tuJV2IBI!Vn5tSosHBURXiTTs4IjXuppxVCIj-Pq_G00qq_REMKU)
+
+### Linux for Pixel
+Atto - Android & Linux o melhor em tempo real.
+
+Instalação:
+
+1) Aplique a atualização de acordo com o seu aparelho.
+    Atto-iSmart-Linux.up4
+    Atto-Pixel-Linux.upk
+
+2) Copie o arquivo "linux.tar.xz" para a únidade interna/externa na qual deseja deixar o sistema Linux (recomendado partição em EXT-1/2/3 ou 4).
+3) Inicie o aparelho com essa únidade conectada.
+
+Detalhes:
+    Quando o android for iniciado, ele irá procurar em todas as unidades montadas a existência da pasta "linux",
+    caso a pasta seja encontrada, o sistema irá iniciar o carregamento. Caso não encontrada, o sistema irá verificar
+    a existência do arquivo "linux.tar.xz" onde caso encontre, irá efetuar a extração e depois o carregamento.
+    
+OBS: O arquivo "linux.tar.xz" será apagado após a instalação, e será gerado um log na mesma pasta referente a instalação.
+     Caso o sistema linux não seja encontrado, o sistema continuará o mesmo.
+ 
+https://mega.nz/#F!QYNy1LBT!tjH4R2DnzEMtk4th486ssw
+
+ssh user root pass AttoPixel
  
 # Revendedores confiáveis
 O preço médio do equipamento gira hoje entre R$ 560 (menor preço encontrado) e R$ 700.
