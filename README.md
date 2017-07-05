@@ -34,6 +34,9 @@
 - **0014** (2017-04-05) - md5: 70ad311294adb1bf221fefa87160aeab - [download](https://mega.nz/#!w3xgWIyI!DXB_Y6xAytJShOkbGGJXns6zayihxZVoBIc3a8FkehU) - **NÃO OFICIAL**
 - **0013** (2017-04-01) - md5: 3eb7e9d81ef4c5d7bc258c04648bd438 - [download](https://mega.nz/#!YuZUSQDZ!7IrCfKZr9TNmcAX2drA6wKVouVjVz6qoU9srzikIYkk) - **NÃO OFICIAL**
 
+### OSCAM
+- **30.1.16 - service.softcam.oscam-30.1.16.zip** (2017-02-03) - [download](https://mega.nz/#!onxmwbDR!vBtlgSF1BraSjnMOijl9BFzywahSJccmgPtsCzGUR3E)
+
 ### Android Root
 - **0001** (2017-04-14) - [download](https://mega.nz/#!gvIwDQSD!CSBfMmP5zbbZUh7ioAsfR0qu3vhvS9eGgi77u56630Q) - **NÃO OFICIAL**
 
