@@ -28,8 +28,8 @@
 # Downloads
 
 ### Firmwares para o Pixel
-- **[0629](https://freesatelitalhd.com/forum/index.php?topic=7121.0)** (2017-06-29) - md5: f43d1b227da39aec65b0b40d16ae9569 - [download](http://ow.ly/vF1V30d7me4) - [link 2](http://ow.ly/M7UB30d7mwU) - [link 3](http://ow.ly/qiWF30d7mAS) - [link 4](http://ow.ly/AEth30d7wL0) - **OFICIAL!** - [changelog](https://freesatelitalhd.com/forum/index.php?topic=7121.0) 
-- **0508** (2017-05-08) - md5: bd370abd42224ba444bca730fcf8e9f8 - [download](http://ow.ly/Zt2Q30bzcbq) - [link 2](http://ow.ly/1vE630bzcd4) - [link 3](http://ow.ly/nRIT30bzcfL) - [link 4](https://mega.nz/#!Yq5C1QIZ!R-oMRZoSCdfVCBrYVFplKwSPWD6-WiYL4zziRLSus0g) - [link 5](https://mega.nz/#!0hdBhQaR!sm21AZo5pm967Br4BdYr7uamaLlPCU9NnfF_gsJgVXY) - **OVER THE AIR**
+- **[0629](https://freesatelitalhd.com/forum/index.php?topic=7121.0)** (2017-06-29) - md5: f43d1b227da39aec65b0b40d16ae9569 - [download](http://ow.ly/vF1V30d7me4) - [link 2](http://ow.ly/M7UB30d7mwU) - [link 3](http://ow.ly/qiWF30d7mAS) - [link 4](http://ow.ly/AEth30d7wL0) - [changelog](https://freesatelitalhd.com/forum/index.php?topic=7121.0) 
+- **0508** (2017-05-08) - md5: bd370abd42224ba444bca730fcf8e9f8 - [download](http://ow.ly/Zt2Q30bzcbq) - [link 2](http://ow.ly/1vE630bzcd4) - [link 3](http://ow.ly/nRIT30bzcfL) - [link 4](https://mega.nz/#!Yq5C1QIZ!R-oMRZoSCdfVCBrYVFplKwSPWD6-WiYL4zziRLSus0g) - [link 5](https://mega.nz/#!0hdBhQaR!sm21AZo5pm967Br4BdYr7uamaLlPCU9NnfF_gsJgVXY) - **OTA**
 - **0421** (2017-04-21) - md5: b02a4da0935c9bed27603da180605e57 - [download](https://mega.nz/#!prAEQZqZ!zZ0wDezoYHATLJr0RBugfPcmS2akpAuRQqAjqD6-vkM) - [link 2](http://ow.ly/joab30b3umO) - [link 3](http://ow.ly/QK8P30b3vVU) - **NÃO OFICIAL**
 - **0014** (2017-04-05) - md5: 70ad311294adb1bf221fefa87160aeab - [download](https://mega.nz/#!w3xgWIyI!DXB_Y6xAytJShOkbGGJXns6zayihxZVoBIc3a8FkehU) - **NÃO OFICIAL**
 - **0013** (2017-04-01) - md5: 3eb7e9d81ef4c5d7bc258c04648bd438 - [download](https://mega.nz/#!YuZUSQDZ!7IrCfKZr9TNmcAX2drA6wKVouVjVz6qoU9srzikIYkk) - **NÃO OFICIAL**
