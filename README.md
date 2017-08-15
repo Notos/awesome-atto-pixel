@@ -81,7 +81,7 @@
 - **Spotify For AndroidTV 1.3.1** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!IyAB0BRQ!vSzFinsRwQbuOBeggNg1YxDRXjpVE9VBToZX8v1Ry64)
 - **Spotify 8.4.4** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!tuJV2IBI!Vn5tSosHBURXiTTs4IjXuppxVCIj-Pq_G00qq_REMKU)
 
-### Debian Linux for Pixel
+# Debian Linux for Pixel
 Que tal rodar um LINUX completo dentro do seu Android?
 
 #### Tópico oficial no Fórum
