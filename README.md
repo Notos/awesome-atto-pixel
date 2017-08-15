@@ -83,6 +83,9 @@
 ### Debian Linux for Pixel
 Que tal rodar um LINUX completo dentro do seu Android?
 
+#### Tópico oficial no Fórum
+Caso deseje deixar algum comentário para o desenvolvedor, acesse [[DUAL SYSTEM] Android + Debian 8.x (FS)](https://freesatelitalhd.com/forum/index.php?topic=7250.0).
+
 #### O Linux inclui
 - Debian 8.0
 - Transmission
