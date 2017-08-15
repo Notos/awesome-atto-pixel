@@ -105,9 +105,10 @@ OBS: Essa atualização server apenas para inicializar o Linux ou instalá-lo ca
 ## Como instalar
 - Baixe o arquivo "[linux.tar.xz](#linux-for-pixel)" e coloque na pasta raíz (root) do dispositivo USB já formatado.
 - Insira-o em seu receptor e depois reinicie.
-- Quando o receptor iniciar, será iniciado o processo de instalação em background (não tem notificação).
-
-OBS: É um processo demorado e irá levar alguns minutos, enquanto isso pode utilizar o aparelho normalmente mas não pode desligá-lo. Caso deseje acompanhar o processo, você pode acessar o aparelho via compartilhamento remoto e ver o log que estará sendo gerado junto ao arquivo linux.tar.xz. Após o término da instalação, o arquivo linux.tar.xz será apagado.
+- Quando o receptor iniciar, será iniciado o processo de instalação em background (não tem notificação). Atenção, este é um processo demorado e irá levar alguns minutos, enquanto isso pode utilizar o aparelho normalmente mas não pode desligá-lo. 
+- Para acompanhar o processo, você pode acessar o aparelho via compartilhamento remoto (SMB) e ver o log (arquivo linux-install.log) que é gravado na mesma pasta do arquivo linux.tar.xz. 
+- Se o arquivo linux.tar.xz for apagado, significa que deu tudo certo e que **você agora tem um Linux rodando ao mesmo tempo que o Android do Pixel!**
+- Caso o arquivo linux.tar.xz não tenha sido apagado, alguma coisa deu errado, por favor verifique o arquivo **linux-install.log**
 
 ## Como acessar
  
