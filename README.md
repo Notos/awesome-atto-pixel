@@ -84,10 +84,10 @@
 # Debian Linux for Pixel
 Que tal rodar um LINUX completo dentro do seu Android?
 
-#### Tópico oficial no Fórum
+## Tópico oficial no Fórum
 Caso deseje deixar algum comentário para o desenvolvedor, acesse [[DUAL SYSTEM] Android + Debian 8.x (FS)](https://freesatelitalhd.com/forum/index.php?topic=7250.0).
 
-#### O Linux inclui
+## O Linux inclui
 - Debian 8.0
 - Transmission
 - Plex
@@ -95,31 +95,32 @@ Caso deseje deixar algum comentário para o desenvolvedor, acesse [[DUAL SYSTEM]
 
 Não bastou? Use o comando **apt-get install <programa>** pra instalar o que mais quiser!
 
-#### Requisitos
-
+## Requisitos
 - Um cartão SD ou qualquer dispositivo de armazenamento via USB (HD, Pendrive...)
 - Formatar o dispositivo em EXT4 (EXT2 e EXT3 também suportados).
 - Aplicar a atualização "[AttoPixelLinux.upk](#linux-for-pixel)" no seu Atto Pixel.
 
 OBS: Essa atualização server apenas para inicializar o Linux ou instalá-lo caso seja necessário, só é preciso reaplica-la caso seja atualizado o sistema.
 
-#### Como instalar
+## Como instalar
 - Baixe o arquivo "[linux.tar.xz](#linux-for-pixel)" e coloque na pasta raíz (root) do dispositivo USB já formatado.
 - Insira-o em seu receptor e depois reinicie.
 - Quando o receptor iniciar, será iniciado o processo de instalação em background (não tem notificação).
 
 OBS: É um processo demorado e irá levar alguns minutos, enquanto isso pode utilizar o aparelho normalmente mas não pode desligá-lo. Caso deseje acompanhar o processo, você pode acessar o aparelho via compartilhamento remoto e ver o log que estará sendo gerado junto ao arquivo linux.tar.xz. Após o término da instalação, o arquivo linux.tar.xz será apagado.
 
-#### Acesso SSH
+## Como acessar
+ 
+### Acesso SSH
 - Usuário: root
 - Senha: AttoPixel
 
-#### Transmission
+### Transmission
 - URL: http://IP_DO_SEU_RECEPTOR:9091/
 - Usuário: atto
 - Senha: AttoPixel
 
-#### Plex
+### Plex
 - URL: http://IP_DO_SEU_RECEPTOR:32400/web/
 
 # Revendedores confiáveis
