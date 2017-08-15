@@ -47,6 +47,10 @@
 - **0002 - 16.1** (2017-05-01) - [download](https://mega.nz/#!ZuYSEQwC!vSgxcRa-RO9FNhf3E9kZrs0J1876TXg8b2fBXJYCaBs) - [link 2](http://www3.zippyshare.com/v/HXoYIVF0/file.html) 
 - **0001 - 16.0** (2017-04-01) - [download](https://mega.nz/#!huhDGZpQ!gtoqlzSQ_8qRLn80Xg77WVeJxdrc8vqVs_C5JwKz2h4) - **NÃO OFICIAL**
 
+### Linux For Pixel
+- **AttoPixelLinux-2.1.upk** (2017-08-15) - [download](https://mega.nz/#!sF8lxKwZ!jt5DJj0Db-RNMTNZf1BvSGs73gHCkmU-PhzYjiLfL_w)
+- **linux.tar.xz** (2017-08-15) - [download](https://mega.nz/#!cAtECQQY!_ewjT4CObz6dQ0WG8tFBCUO8xtgVnBFo1kwyoascZJQ)
+
 ### Kodi Repositories
 - **Atto Official Repository 0.0.3** (2017-04-01) - [download](https://mega.nz/#!pypEFBxA!ivQaj6YdrNeNu8Mih3ZcTIGA16H1DDJMlKno359iXN4)
 - **Atto repository** [download](https://drive.google.com/open?id=0B5SEgLDAf1L7RG9IY0lqVVdGWGs)
@@ -76,30 +80,44 @@
 - **Spotify For AndroidTV 1.3.1** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!IyAB0BRQ!vSzFinsRwQbuOBeggNg1YxDRXjpVE9VBToZX8v1Ry64)
 - **Spotify 8.4.4** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!tuJV2IBI!Vn5tSosHBURXiTTs4IjXuppxVCIj-Pq_G00qq_REMKU)
 
-### Linux for Pixel
-Atto - Android & Linux o melhor em tempo real.
+### Debian Linux for Pixel
+Que tal rodar um LINUX completo dentro do seu Android?
 
-Instalação:
+#### O Linux inclui
+- Debian 8.0
+- Transmission
+- Plex
+- SSH
 
-1) Aplique a atualização de acordo com o seu aparelho.
-    Atto-iSmart-Linux.up4
-    Atto-Pixel-Linux.upk
+Não bastou? Use o comando **apt-get install <programa>** pra instalar o que mais quiser!
 
-2) Copie o arquivo "linux.tar.xz" para a únidade interna/externa na qual deseja deixar o sistema Linux (recomendado partição em EXT-1/2/3 ou 4).
-3) Inicie o aparelho com essa únidade conectada.
+#### Requisitos
 
-Detalhes:
-    Quando o android for iniciado, ele irá procurar em todas as unidades montadas a existência da pasta "linux",
-    caso a pasta seja encontrada, o sistema irá iniciar o carregamento. Caso não encontrada, o sistema irá verificar
-    a existência do arquivo "linux.tar.xz" onde caso encontre, irá efetuar a extração e depois o carregamento.
-    
-OBS: O arquivo "linux.tar.xz" será apagado após a instalação, e será gerado um log na mesma pasta referente a instalação.
-     Caso o sistema linux não seja encontrado, o sistema continuará o mesmo.
- 
-https://mega.nz/#F!QYNy1LBT!tjH4R2DnzEMtk4th486ssw
+- Um cartão SD ou qualquer dispositivo de armazenamento via USB (HD, Pendrive...)
+- Formatar o dispositivo em EXT4 (EXT2 e EXT3 também suportados).
+- Aplicar a atualização "[AttoPixelLinux.upk](#linux-for-pixel)" no seu Atto Pixel.
 
-ssh user root pass AttoPixel
- 
+OBS: Essa atualização server apenas para inicializar o Linux ou instalá-lo caso seja necessário, só é preciso reaplica-la caso seja atualizado o sistema.
+
+#### Como instalar
+- Baixe o arquivo "[linux.tar.xz](#linux-for-pixel)" e coloque na pasta raíz (root) do dispositivo USB já formatado.
+- Insira-o em seu receptor e depois reinicie.
+- Quando o receptor iniciar, será iniciado o processo de instalação em background (não tem notificação).
+
+OBS: É um processo demorado e irá levar alguns minutos, enquanto isso pode utilizar o aparelho normalmente mas não pode desligá-lo. Caso deseje acompanhar o processo, você pode acessar o aparelho via compartilhamento remoto e ver o log que estará sendo gerado junto ao arquivo linux.tar.xz. Após o término da instalação, o arquivo linux.tar.xz será apagado.
+
+#### Acesso SSH
+- Usuário: root
+- Senha: AttoPixel
+
+#### Transmission
+- URL: http://IP_DO_SEU_RECEPTOR:9091/
+- Usuário: atto
+- Senha: AttoPixel
+
+#### Plex
+- URL: http://IP_DO_SEU_RECEPTOR:32400/web/
+
 # Revendedores confiáveis
 O preço médio do equipamento gira hoje entre R$ 560 (menor preço encontrado) e R$ 700.
 ### São Paulo (entrega em todo o brasil por Sedex) 
