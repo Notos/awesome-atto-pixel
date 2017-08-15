@@ -13,6 +13,7 @@
 * [Comunidade - Fóruns de suporte,  WhatsApp e Telegram](#comunidade)
 * [Cidades atendidas pelo IKaS Free](#ikas-free-atto---cidades-atendidas)
 * [Vídeos](#vídeos-relacionados)
+* [Debian Linux for Pixel](#debian-linux-for-pixel)
 * [FAQ - Perguntas frequentes](#perguntas-frequentes)
 
 
