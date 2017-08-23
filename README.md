@@ -237,7 +237,37 @@ Esse [post](https://freesatelitalhd.com/forum/index.php?topic=6229.msg128632#msg
 Normalmente isso é um problema do Kodi e não do Pixel. Quando falta espaço em disco no Kodi. Pra ter certeza, reinicie o Pixel, entre em Sistema > Informações sobre o sistema (menu debaixo da opção) > Armazenamento e veja se o /storage/sdcard está cheio. Se estiver você vai ter que liberar espaço pro Kodi. 
 
 ### Como eu faço para liberar mais espaço para o Kodi?
-A maneira mais fácil é transferir o teu Kodi para outro disco. Este tutorial ensina como fazer: http://kodi.wiki/view/HOW-TO:Change_data_location_for_Android. 
+A maneira mais fácil é transferir/mover todos os dados do Kodi para outro disco. Este tutorial ensina como fazer: http://kodi.wiki/view/HOW-TO:Change_data_location_for_Android. 
+
+Segue o passo-a-passo:
+
+1) Feche o Kodi.
+
+3) Crie uma pasta para os dados do Kodi dentro do novo dispositivo, exemplo:
+
+```
+/mmcb/mmcb1/kodi_data
+```
+
+4) Crie o arquivo `/mnt/sdcard/xbmc_env.properties` (no root do Android) com o seguinte conteúdo:
+
+```
+xbmc.data=<pasta aonde vai ficar o Kodi no cartão SD ou disco USB>
+```
+    
+Exemplos:
+
+```    
+xbmc.data=/mmcb/mmcb1/kodi_data
+```
+
+```    
+xbmc.data=/sda/sda1/kodi_data
+```
+
+3) Mova (ou copie) todo o conteúdo de `/sdcard/Android/data/org.xbmc.kodi/.kodi` para a nova pasta `/mmcb/mmcb1/kodi_data` (exemplo).
+
+5) Reinicie o Kodi
 
 ### Para que serve o "modo root"?
 'Em sistemas operacionais com base no Unix/Linux, como o Android, o root representa a possibilidade de se utilizar a plataforma como um superadministrador. Isto significa que um aparelho "rootado" tem acesso total ao sistema, sendo capaz de realizar funções e de acessar aplicativos que não estão disponíveis quando ele está "fechado"...'
