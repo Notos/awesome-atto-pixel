@@ -81,6 +81,7 @@
 - **Spotify For AndroidTV 1.3.1** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!IyAB0BRQ!vSzFinsRwQbuOBeggNg1YxDRXjpVE9VBToZX8v1Ry64)
 - **Spotify 8.4.4** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!tuJV2IBI!Vn5tSosHBURXiTTs4IjXuppxVCIj-Pq_G00qq_REMKU)
 
+
 # Debian Linux for Pixel
 Que tal rodar um LINUX completo dentro do seu Android?
 
@@ -124,6 +125,7 @@ OBS: Essa atualização server apenas para inicializar o Linux ou instalá-lo ca
 ### Plex
 - URL: http://IP_DO_SEU_RECEPTOR:32400/web/
 
+
 # Revendedores confiáveis
 O preço médio do equipamento gira hoje entre R$ 560 (menor preço encontrado) e R$ 700.
 ### São Paulo (entrega em todo o brasil por Sedex) 
@@ -132,6 +134,7 @@ O preço médio do equipamento gira hoje entre R$ 560 (menor preço encontrado) 
 - [HK Mania](mailto:hkmania@hotmail.com) - tel/zap: 11-98544-6379 - fixo: 11-3225-0829 (Elizabeth, Carol ou Houssen) 
     - R. Aurora, 200 lj 228 - S. Ifigênia 
 
+
 # Comunidade 
 ### Fóruns de suporte
 - [Open HD Forum - Pixel](http://freesatelitalhd.com/forum/index.php?topic=6898.225#lastPost)
@@ -139,7 +142,7 @@ O preço médio do equipamento gira hoje entre R$ 560 (menor preço encontrado) 
 - [Open HD Forum - Status IKaS](http://freesatelitalhd.com/forum/index.php?board=21.0)
 ### Grupos de WhatsApp e Telegram
 - Atto Pixel Oficial - [convite - WhatsApp](https://chat.whatsapp.com/KtJGxvU6dck4p0WBxmai3g)
-- Atto Pixel'CaboNET' - [convite - WhatsApp](https://chat.whatsapp.com/invite/Bbt78mgQITe3ermWZE8U6O)
+- Atto Desenvolvedores - [convite - WhatsApp](https://chat.whatsapp.com/1SfWUhMFAkCCRCEnnhkCzz)
 - Android Média Center - [convite - WhatsApp](https://chat.whatsapp.com/IHwKOpZLxWICLUyBW3qCDF)
 - Android Mídia Center - [convite - Telegram](https://t.me/joinchat/AAAAAD_UHoVSkO-UFX2IBA)
 - CineClub - [Telegram Channel](https://telegram.me/AppCineClub) 
