@@ -246,7 +246,7 @@ Segue o passo-a-passo:
 3) Crie uma pasta para os dados do Kodi dentro do novo dispositivo, exemplo:
 
 ```
-/mmcb/mmcb1/kodi_data
+/mnt/mmcblk1/mmcblk1p1/kodi
 ```
 
 4) Crie o arquivo `/mnt/sdcard/xbmc_env.properties` (no root do Android) com o seguinte conteúdo:
@@ -258,14 +258,14 @@ xbmc.data=<pasta aonde vai ficar o Kodi no cartão SD ou disco USB>
 Exemplos:
 
 ```    
-xbmc.data=/mmcb/mmcb1/kodi_data
+xbmc.data=/mnt/mmcblk1/mmcblk1p1/kodi/data
 ```
 
 ```    
-xbmc.data=/sda/sda1/kodi_data
+xbmc.data=/mnt/sda/sda1/kodi/data
 ```
 
-3) Mova (ou copie) todo o conteúdo de `/sdcard/Android/data/org.xbmc.kodi/.kodi` para a nova pasta `/mmcb/mmcb1/kodi_data` (exemplo).
+3) Mova (ou copie) todo o conteúdo de `/mnt/sdcard/Android/data/org.xbmc.kodi/.kodi` para a nova pasta `/mnt/mmcblk1/mmcblk1p1/kodi` (exemplo).
 
 5) Reinicie o Kodi
 
