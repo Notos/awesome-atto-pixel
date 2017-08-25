@@ -170,11 +170,7 @@ Você vai precisar configurar o acesso para o OpenWebif, onde você consegue peg
 
 #### OpenWebif
 
-Configure o acesso a ele (habilitar e porta, ex: 8082) na interface do Enigma2, em seguida basta acessá-lo pelo seu browser usando a URL:
-
-```
-http://192.168.0.10:8082
-```
+Configure o acesso a ele (habilitar e porta, ex: 8082) na interface do Enigma2, em seguida basta acessá-lo pelo seu browser usando a URL http://192.168.0.10:8082 (lembrando que esta url é apenas um exemplo).
 
 #### Acesso SMB e FTP
 
