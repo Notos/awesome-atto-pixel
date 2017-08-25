@@ -14,6 +14,7 @@
 * [Cidades atendidas pelo IKaS Free](#ikas-free-atto---cidades-atendidas)
 * [Vídeos](#vídeos-relacionados)
 * [Debian Linux for Pixel](#debian-linux-for-pixel)
+* [Enigma2 for Pixel](#enigma2-for-pixel)
 * [FAQ - Perguntas frequentes](#perguntas-frequentes)
 
 
@@ -81,6 +82,9 @@
 - **Spotify For AndroidTV 1.3.1** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!IyAB0BRQ!vSzFinsRwQbuOBeggNg1YxDRXjpVE9VBToZX8v1Ry64)
 - **Spotify 8.4.4** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!tuJV2IBI!Vn5tSosHBURXiTTs4IjXuppxVCIj-Pq_G00qq_REMKU)
 
+### Enigma2
+
+2017-08-25 - [download](https://drive.google.com/open?id=0B8Frj5M73nUnbUtLYzB4ME9kY2M)
 
 # Debian Linux for Pixel
 Que tal rodar um LINUX completo dentro do seu Android?
@@ -125,6 +129,21 @@ OBS: Essa atualização server apenas para inicializar o Linux ou instalá-lo ca
 ### Plex
 - URL: http://IP_DO_SEU_RECEPTOR:32400/web/
 
+
+# Enigma2 for Pixel
+
+Atenção: esta ainda é uma versão alpha!
+
+- Baixe o arquivo IMG compactado em [Downloads](#enigma2)
+- Instale a última atualização (0724), apenas ela suporta o Enigma2.
+- Aplicar o IMG no SDCard utilizando o Win32DiskImager ou o pelo dd no linux.
+- Colocar o SDCard no Pixel.
+- Ao ligar o Pixel irá aparecer MENU no visor, então você terá menos de 1 segundo para selecionar o sistema operacional:
+    - Android - Tecla Vermelha
+    - Enigma2 - Tecla Azul
+- A escolha ficará como padrão, então não precisa ficar selecionando a cada desligamento ou reboot do sistema.
+
+Divirta-se!
 
 # Revendedores confiáveis
 O preço médio do equipamento gira hoje entre R$ 560 (menor preço encontrado) e R$ 700.
