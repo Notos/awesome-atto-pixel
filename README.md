@@ -84,7 +84,7 @@
 
 ### Enigma2
 
-2017-08-25 - [download](https://drive.google.com/open?id=0B8Frj5M73nUnbUtLYzB4ME9kY2M)
+2017-08-25 - [EM BREVE]
 
 # Debian Linux for Pixel
 Que tal rodar um LINUX completo dentro do seu Android?
