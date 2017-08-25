@@ -144,7 +144,43 @@ OBS: Essa atualização server apenas para inicializar o Linux ou instalá-lo ca
     - Enigma2 - Tecla Azul
 - A escolha ficará como padrão, então não precisa ficar selecionando a cada desligamento ou reboot do sistema.
 
-##### Observações técnicas
+#### IP do Pixel
+
+Para usar a maioria dos serviços, você vai precisar do IP do Pixel, verifique no seu roteador qual é. Nos exemplos abaixo vamos usasr o IP 192.168.0.10.
+
+#### SSH
+
+Entre usando o PuTTY ou qualquer outro cliente ssh:
+
+- IP: 192.168.0.10
+- Porta: 22
+
+#### OSCAM
+
+Para acessar use a URL: http://192.168.0.10:8081
+
+Caso ele não entre:
+
+- Acesse o Pixel via SSH
+- Execute o comando: `ps aux | grep oscam` ou `top -bn1 | grep oscam`, caso não apareça um processo de `oscam`, provavelmente ele não foi iniciado corretamente.
+
+#### Streaming
+
+Você vai precisar configurar o acesso para o OpenWebif, onde você consegue pegar os links (urls) dos arquivos `.m3u` para os canais. Essas urls podem ser usadas em programas tais como o VLC.
+
+#### OpenWebif
+
+Configure o acesso a ele (habilitar e porta, ex: 8082) na interface do Enigma2, em seguida basta acessá-lo pelo seu browser usando a URL:
+
+```
+http://192.168.0.10:8082
+```
+
+#### Acesso SMB e FTP
+
+O acesso SMB está configurado e testado, o acesso FTP ainda não foi testado.
+
+#### Observações técnicas
 
 - Não funciona com IKaS, apenas com CS.
 - É uma versão ALPHA, algumas coisas podem não estar funcionando, use por sua conta e risco.
