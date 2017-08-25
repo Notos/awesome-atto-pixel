@@ -132,14 +132,13 @@ OBS: Essa atualização server apenas para inicializar o Linux ou instalá-lo ca
 
 # Enigma2 for Pixel
 
-Atenção: esta ainda é uma versão alpha!
-
 #### Instalando
 
 - Baixe o arquivo IMG compactado em [Downloads](#enigma2)
-- Instale a última atualização ([0724](#firmwares-para-o-pixel)), apenas ela suporta o Enigma2.
-- Aplicar o IMG no SDCard utilizando o Win32DiskImager ou o pelo dd no linux.
+- Instale a última atualização ([0724](#firmwares-para-o-pixel)), **apenas esta versão de firmware suporta o Enigma2**.
+- Aplicar o IMG no SDCard utilizando o [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) ou usando o comando [dd](https://www.howtoforge.com/linux-dd-command/) no linux.
 - Colocar o SDCard no Pixel.
+- Desligar e ligar o Pixel.
 - Ao ligar o Pixel irá aparecer MENU no visor, então você terá menos de 1 segundo para selecionar o sistema operacional:
     - Android - Tecla Vermelha
     - Enigma2 - Tecla Azul
@@ -148,7 +147,7 @@ Atenção: esta ainda é uma versão alpha!
 ##### Observações técnicas
 
 - Não funciona com IKaS, apenas com CS.
-- 
+- É uma versão ALPHA, algumas coisas podem não estar funcionando, use por sua conta e risco.
 
 Divirta-se!
 
