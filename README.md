@@ -181,6 +181,10 @@ O acesso SMB está configurado e testado, o acesso FTP ainda não foi testado.
 - Não funciona com IKaS, apenas com CS.
 - É uma versão ALPHA, algumas coisas podem não estar funcionando, use por sua conta e risco.
 
+#### Update script
+
+Para fazer pequenas atualizações ou de toda a distribuição, você pode usar o script [update-enigma2.sh](update-enigma2.sh)
+
 Divirta-se!
 
 # Revendedores confiáveis
