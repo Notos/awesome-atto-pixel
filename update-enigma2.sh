@@ -21,19 +21,19 @@ function decompress() {
   mkdir $NEW
 
   if [[ $UPDATE == *.tar.bz2 ]]; then
-     COMMAND="tar xvfj"
+     COMMAND="tar xvfjp"
   fi
 
   if [[ $UPDATE == *.tar.gz ]]; then
-     COMMAND="tar xvfz"
+     COMMAND="tar xvfzp"
   fi
 
   if [[ $UPDATE == *.zip ]]; then
      COMMAND="unzip x"
   fi
 
-
   cd $NEW
+  
   echo Changed to directory \"$(pwd)\"
 
   COMMAND="$COMMAND $UPDATE"
@@ -51,7 +51,7 @@ function distUpgrade() {
   echo Starting a dist-upgrade...
   echo 
 
-  backupConf
+  #backupConf
   
   MOVETO="$ENIGMA2DIR/backup-enigma/`date +%Y%m%d-%H%M%S`"
   
@@ -65,15 +65,15 @@ function distUpgrade() {
   
   for filename in $NEW/*; do
     OLD_DIR=$(pwd)/$(basename $filename)
-
+    
     echo "------------------------- $filename"   
     
-    mv $OLD_DIR $MOVETO/
+    #mv $OLD_DIR $MOVETO/
+    
+    mv $filename $(pwd)
     
     echo
   done
-  
-  echo mv $NEW/* $CURDIR/
 }
 
 ### Show program help screen
@@ -93,6 +93,7 @@ function help() {
   echo "  update                  - Update your distribution"
   echo "  backup-conf             - Backup important config files"
   echo "  restore-conf            - Restore config"
+  echo "  clean-root              - Delete all rootfs files"
   echo
   
   exit 1
@@ -114,13 +115,42 @@ function backupConf() {
   rsync -aR --progress $CURDIR/picon/* $DIR/  
 }
 
+
+### Restore configuration
+
 function restoreConf() {
   echo not implemented
 }
 
+### Update enigma2
+
 function update() {
   echo not implemented
 }
+
+### Clean the root dir, removing all files
+
+function cleanRoot() {
+  rm -rf $(pwd)/bin
+  rm -rf $(pwd)/boot
+  rm -rf $(pwd)/dev
+  rm -rf $(pwd)/etc
+  rm -rf $(pwd)/home
+  rm -rf $(pwd)/lib
+  rm -rf $(pwd)/media
+  rm -rf $(pwd)/proc
+  rm -rf $(pwd)/run
+  rm -rf $(pwd)/sbin
+  rm -rf $(pwd)/sys
+  rm -rf $(pwd)/usr
+  rm -rf $(pwd)/var
+  rm $(pwd)/hdd
+  rm $(pwd)/mnt
+  rm $(pwd)/share
+  rm $(pwd)/tmp
+}
+
+### Main app
 
 function main() {
   CURDIR=$(pwd)
@@ -139,6 +169,12 @@ function main() {
 
   NEW=$ENIGMA2DIR/new
 
+  if [ "$OPTION" == "decompress" ]; then
+    decompress $@
+
+    exit 0
+  fi
+  
   if [ "$OPTION" == "dist-upgrade" ]; then
     distUpgrade
     
@@ -168,10 +204,18 @@ function main() {
     
     exit 0
   fi
-    
+
+  if [ "$OPTION" == "clean-root" ]; then
+    cleanRoot
+
+    exit 0
+  fi
+      
   echo Option \"$OPTION\" does not exists
   
   help
 }
+
+### Execute the main function
 
 main $@
