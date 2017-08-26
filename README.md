@@ -14,6 +14,7 @@
 * [Cidades atendidas pelo IKaS Free](#ikas-free-atto---cidades-atendidas)
 * [Vídeos](#vídeos-relacionados)
 * [Debian Linux for Pixel](#debian-linux-for-pixel)
+* [Enigma2 for Pixel](#enigma2-for-pixel)
 * [FAQ - Perguntas frequentes](#perguntas-frequentes)
 
 
@@ -81,6 +82,9 @@
 - **Spotify For AndroidTV 1.3.1** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!IyAB0BRQ!vSzFinsRwQbuOBeggNg1YxDRXjpVE9VBToZX8v1Ry64)
 - **Spotify 8.4.4** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!tuJV2IBI!Vn5tSosHBURXiTTs4IjXuppxVCIj-Pq_G00qq_REMKU)
 
+### Enigma2
+
+2017-08-25 - [EM BREVE]
 
 # Debian Linux for Pixel
 Que tal rodar um LINUX completo dentro do seu Android?
@@ -125,6 +129,59 @@ OBS: Essa atualização server apenas para inicializar o Linux ou instalá-lo ca
 ### Plex
 - URL: http://IP_DO_SEU_RECEPTOR:32400/web/
 
+
+# Enigma2 for Pixel
+
+#### Instalando
+
+- Baixe o arquivo IMG compactado em [Downloads](#enigma2)
+- Instale a última atualização ([0724](#firmwares-para-o-pixel)), **apenas esta versão de firmware suporta o Enigma2**.
+- Aplicar o IMG no SDCard utilizando o [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) ou usando o comando [dd](https://www.howtoforge.com/linux-dd-command/) no linux.
+- Colocar o SDCard no Pixel.
+- Desligar e ligar o Pixel.
+- Ao ligar o Pixel irá aparecer MENU no visor, então você terá menos de 1 segundo para selecionar o sistema operacional:
+    - Android - Tecla Vermelha
+    - Enigma2 - Tecla Azul
+- A escolha ficará como padrão, então não precisa ficar selecionando a cada desligamento ou reboot do sistema.
+
+#### IP do Pixel
+
+Para usar a maioria dos serviços, você vai precisar do IP do Pixel, verifique no seu roteador qual é. Nos exemplos abaixo vamos usasr o IP 192.168.0.10.
+
+#### SSH
+
+Entre usando o PuTTY ou qualquer outro cliente ssh:
+
+- IP: 192.168.0.10
+- Porta: 22
+
+#### OSCAM
+
+Para acessar use a URL: http://192.168.0.10:8081
+
+Caso ele não entre:
+
+- Acesse o Pixel via SSH
+- Execute o comando: `ps aux | grep oscam` ou `top -bn1 | grep oscam`, caso não apareça um processo de `oscam`, provavelmente ele não foi iniciado corretamente.
+
+#### Streaming
+
+Você vai precisar configurar o acesso para o OpenWebif, onde você consegue pegar os links (urls) dos arquivos `.m3u` para os canais. Essas urls podem ser usadas em programas tais como o VLC.
+
+#### OpenWebif
+
+Configure o acesso a ele (habilitar e porta, ex: 8082) na interface do Enigma2, em seguida basta acessá-lo pelo seu browser usando a URL http://192.168.0.10:8082 (lembrando que esta url é apenas um exemplo).
+
+#### Acesso SMB e FTP
+
+O acesso SMB está configurado e testado, o acesso FTP ainda não foi testado.
+
+#### Observações técnicas
+
+- Não funciona com IKaS, apenas com CS.
+- É uma versão ALPHA, algumas coisas podem não estar funcionando, use por sua conta e risco.
+
+Divirta-se!
 
 # Revendedores confiáveis
 O preço médio do equipamento gira hoje entre R$ 560 (menor preço encontrado) e R$ 700.
