@@ -150,7 +150,7 @@ Para usar a maioria dos serviços, você vai precisar do IP do Pixel, verifique 
 
 ### EPG
 
-Para ter um EPG que atualiza automaticamente siga os seguintes passos:
+Para habilitar a atualização automática do EPG, siga os seguintes passos:
 
 - Menu > Plugins > EPG Importer 
 - Habilitar o plugin 
@@ -158,6 +158,11 @@ Para ter um EPG que atualiza automaticamente siga os seguintes passos:
 - Desabilitar todos os outros sources
 - Salvar (tecla verde)
 - Apertar a tecla amarela para fazer a primeira carga manual
+
+Para ter um EPG gráfico, mais "bonito": 
+  - Menu > Setup > EPG > GraphicalEPG settings
+  - View mode: mudar de text para para graphics
+  - Salvar (tecla verde)
 
 ### SSH
 
