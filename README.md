@@ -173,7 +173,7 @@ Você vai precisar configurar o acesso para o OpenWebif, onde você consegue peg
 Configure o acesso a ele:
 
 - Vá em Menu > Plugins > OpenWebif
-- Configure a porta (exÇ 8082)
+- Configure a porta (ex: 8082)
 - Habilite o acesso HTTP
 - Use um browser para acessar a URL http://192.168.0.10:8082.
 
