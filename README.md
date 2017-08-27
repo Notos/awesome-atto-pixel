@@ -132,7 +132,7 @@ OBS: Essa atualização server apenas para inicializar o Linux ou instalá-lo ca
 
 # Enigma2 for Pixel
 
-#### Instalando
+### Instalando
 
 - Baixe o arquivo IMG compactado em [Downloads](#enigma2)
 - Instale a última atualização ([0724](#firmwares-para-o-pixel)), **apenas esta versão de firmware suporta o Enigma2**.
@@ -144,18 +144,18 @@ OBS: Essa atualização server apenas para inicializar o Linux ou instalá-lo ca
     - Enigma2 - Tecla Azul
 - A escolha ficará como padrão, então não precisa ficar selecionando a cada desligamento ou reboot do sistema.
 
-#### IP do Pixel
+### IP do Pixel
 
 Para usar a maioria dos serviços, você vai precisar do IP do Pixel, verifique no seu roteador qual é. Nos exemplos abaixo vamos usasr o IP 192.168.0.10.
 
-#### SSH
+### SSH
 
 Entre usando o PuTTY ou qualquer outro cliente ssh:
 
 - IP: 192.168.0.10
 - Porta: 22
 
-#### OSCAM
+### OSCAM
 
 Para acessar use a URL: http://192.168.0.10:8081
 
@@ -164,11 +164,11 @@ Caso ele não entre:
 - Acesse o Pixel via SSH
 - Execute o comando: `ps aux | grep oscam` ou `top -bn1 | grep oscam`, caso não apareça um processo de `oscam`, provavelmente ele não foi iniciado corretamente.
 
-#### Streaming
+### Streaming
 
 Você vai precisar configurar o acesso para o OpenWebif, onde você consegue pegar os links (urls) dos arquivos `.m3u` para os canais. Essas urls podem ser usadas em programas tais como o VLC.
 
-#### OpenWebif
+### OpenWebif
 
 Configure o acesso a ele:
 
@@ -177,16 +177,16 @@ Configure o acesso a ele:
 - Habilite o acesso HTTP
 - Use um browser para acessar a URL http://192.168.0.10:8082.
 
-#### Acesso SMB e FTP
+### Acesso SMB e FTP
 
 O acesso SMB está configurado e testado, o acesso FTP ainda não foi testado.
 
-#### Observações técnicas
+### Observações técnicas
 
 - Não funciona com IKaS, apenas com CS.
 - É uma versão ALPHA, algumas coisas podem não estar funcionando, use por sua conta e risco.
 
-#### OPKG
+### OPKG
 
 O gerenciador de pacotes OPKG está disponível para instalar e atualizar pacotes. Comandos básicos
 
@@ -200,7 +200,7 @@ Caso o pacote não seja encontrado, tente instalar um outro conjunto de feeds em
 - Arquivo de feeds: [feeds.conf](enigma2/etc/opkg/feeds.conf)
 - Arquivo de arquiteturas: [arch.conf](enigma2/etc/opkg/arch.conf)
 
-#### Update script
+### Update script
 
 Para fazer pequenas atualizações ou de toda a distribuição, você pode usar o script [update-enigma2.sh](update-enigma2.sh)
 
