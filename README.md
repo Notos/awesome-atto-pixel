@@ -170,7 +170,12 @@ Você vai precisar configurar o acesso para o OpenWebif, onde você consegue peg
 
 #### OpenWebif
 
-Configure o acesso a ele (habilitar e porta, ex: 8082) na interface do Enigma2, em seguida basta acessá-lo pelo seu browser usando a URL http://192.168.0.10:8082 (lembrando que esta url é apenas um exemplo).
+Configure o acesso a ele:
+
+- Vá em Menu > Plugins > OpenWebif
+- Configure a porta (exÇ 8082)
+- Habilite o acesso HTTP
+- Use um browser para acessar a URL http://192.168.0.10:8082.
 
 #### Acesso SMB e FTP
 
@@ -180,6 +185,20 @@ O acesso SMB está configurado e testado, o acesso FTP ainda não foi testado.
 
 - Não funciona com IKaS, apenas com CS.
 - É uma versão ALPHA, algumas coisas podem não estar funcionando, use por sua conta e risco.
+
+#### OPKG
+
+O gerenciador de pacotes OPKG está disponível para instalar e atualizar pacotes. Comandos básicos
+
+```
+opkg list
+opkg install <pacote>
+```
+
+Caso o pacote não seja encontrado, tente instalar um outro conjunto de feeds em `/etc/opkg`, aqui temos alguns exemplos:
+
+- Arquivo de feeds: [feeds.conf](enigma2/etc/opkg/feeds.conf)
+- Arquivo de arquiteturas: [arch.conf](enigma2/etc/opkg/arch.conf)
 
 #### Update script
 

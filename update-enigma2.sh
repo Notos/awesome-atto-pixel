@@ -32,6 +32,10 @@ function decompress() {
      COMMAND="unzip x"
   fi
 
+  if [[ $UPDATE == *.rar ]]; then
+     COMMAND="unrar x"
+  fi
+  
   cd $NEW
   
   echo Changed to directory \"$(pwd)\"
@@ -108,11 +112,12 @@ function backupConf() {
   
   mkdir -p $DIR
 
-  rsync -aR --progress $CURDIR/etc/oscam/config/oscam.server $DIR/
+  rsync -aR --progress $CURDIR/etc/oscam/config/* $DIR/
   rsync -aR --progress $CURDIR/etc/enigma2/userb* $DIR/
   rsync -aR --progress $CURDIR/home/root/* $DIR/
   rsync -aR --progress $CURDIR/etc/scripts/* $DIR/
   rsync -aR --progress $CURDIR/picon/* $DIR/  
+  rsync -aR --progress $CURDIR/etc/opkg/* $DIR/
 }
 
 
