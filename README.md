@@ -164,6 +164,11 @@ Para ter um EPG gráfico, mais "bonito":
   - View mode: mudar de text para para graphics
   - Salvar (tecla verde)
 
+Baixando um EPG e tema melhor:
+
+  - Baixar https://github.com/openatv/MetrixHD/tree/master/usr
+  - Copiar a pasta /usr/share/enigma2 para a mesma pasta no Enigma2
+
 ### SSH
 
 Entre usando o PuTTY ou qualquer outro cliente ssh:
