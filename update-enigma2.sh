@@ -55,24 +55,20 @@ function distUpgrade() {
   echo Starting a dist-upgrade...
   echo 
 
-  #backupConf
+  backupConf
+
+  backupConf
   
   MOVETO="$ENIGMA2DIR/backup-enigma/`date +%Y%m%d-%H%M%S`"
   
   mkdir -p $MOVETO
 
-  if [[ ! -d $NEW || "$(ls -A $NEW/)" == "" ]]; then
-    echo "Directory $NEW is empty, please run decompress first"
-    
-    exit 0
-  fi
-  
   for filename in $NEW/*; do
     OLD_DIR=$(pwd)/$(basename $filename)
     
     echo "------------------------- $filename"   
     
-    #mv $OLD_DIR $MOVETO/
+    mv $OLD_DIR $MOVETO/
     
     mv $filename $(pwd)
     
@@ -113,13 +109,22 @@ function backupConf() {
   mkdir -p $DIR
 
   rsync -aR --progress $CURDIR/etc/oscam/config/* $DIR/
-  rsync -aR --progress $CURDIR/etc/enigma2/userb* $DIR/
+  rsync -aR --progress $CURDIR/etc/enigma2/** $DIR/
   rsync -aR --progress $CURDIR/home/root/* $DIR/
   rsync -aR --progress $CURDIR/etc/scripts/* $DIR/
   rsync -aR --progress $CURDIR/picon/* $DIR/  
   rsync -aR --progress $CURDIR/etc/opkg/* $DIR/
 }
 
+### Check if files were decompressed
+
+function checkDecompressed() {
+  if [[ ! -d $NEW || "$(ls -A $NEW/)" == "" ]]; then
+    echo "Directory $NEW is empty, please run decompress first"
+
+    exit 0
+  fi
+}
 
 ### Restore configuration
 
@@ -130,7 +135,14 @@ function restoreConf() {
 ### Update enigma2
 
 function update() {
-  echo not implemented
+  echo Starting a update...
+  echo
+
+  checkDecompressed
+
+  backupConf
+
+  rsync -a --progress $NEW/* $(pwd)/
 }
 
 ### Clean the root dir, removing all files

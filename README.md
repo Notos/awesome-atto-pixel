@@ -148,6 +148,17 @@ OBS: Essa atualização server apenas para inicializar o Linux ou instalá-lo ca
 
 Para usar a maioria dos serviços, você vai precisar do IP do Pixel, verifique no seu roteador qual é. Nos exemplos abaixo vamos usasr o IP 192.168.0.10.
 
+### EPG
+
+Para ter um EPG que atualiza automaticamente siga os seguintes passos:
+
+- Menu > Plugins > EPG Importer 
+- Habilitar o plugin 
+- Habilitar o source "Brasil 15 dias online" 
+- Desabilitar todos os outros sources
+- Salvar (tecla verde)
+- Apertar a tecla amarela para fazer a primeira carga manual
+
 ### SSH
 
 Entre usando o PuTTY ou qualquer outro cliente ssh:
