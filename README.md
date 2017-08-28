@@ -5,6 +5,7 @@
 # Menu
 
 * [Ficha técnica do Pixel](#ficha-técnica)
+* [Tópicos importantes no fórum oficial](#tópicos-importantes-no-fórum-oficial)
 * [Firmwares](#firmwares-para-o-pixel)
 * [Downloads](#downloads)
 * [Procedimento de atualização do firmware](#como-atualizar-o-firmware) 
