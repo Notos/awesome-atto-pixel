@@ -21,11 +21,11 @@ function decompress() {
   mkdir $NEW
 
   if [[ $UPDATE == *.tar.bz2 ]]; then
-     COMMAND="tar xvfjp"
+     COMMAND="tar xvfj"
   fi
 
   if [[ $UPDATE == *.tar.gz ]]; then
-     COMMAND="tar xvfzp"
+     COMMAND="tar xvfz"
   fi
 
   if [[ $UPDATE == *.zip ]]; then

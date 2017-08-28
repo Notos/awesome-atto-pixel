@@ -176,8 +176,9 @@ Para usar a maioria dos serviços, você vai precisar do IP do Pixel, verifique 
 Para habilitar a atualização automática do EPG, siga os seguintes passos:
 
 - Menu > Plugins > EPG Importer 
-- Habilitar o plugin 
-- Habilitar o source "Brasil 15 dias online" 
+- Habilitar o plugin
+- Tecla azul: selecionar os sources 
+- Habilitar o source "Brasil 15 dias" 
 - Desabilitar todos os outros sources
 - Salvar (tecla verde)
 - Apertar a tecla amarela para fazer a primeira carga manual
