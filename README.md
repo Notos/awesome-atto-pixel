@@ -178,7 +178,7 @@ Para habilitar a atualização automática do EPG, siga os seguintes passos:
 - Menu > Plugins > EPG Importer 
 - Habilitar o plugin
 - Tecla azul: selecionar os sources 
-- Habilitar o source "Brasil 15 dias" 
+- Habilitar o source "Brasil XMLTV 15 dias" 
 - Desabilitar todos os outros sources
 - Salvar (tecla verde)
 - Apertar a tecla amarela para fazer a primeira carga manual
