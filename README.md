@@ -19,12 +19,26 @@
 
 
 # Ficha técnica
+- Versões: 
+    - V1: com 3 tuners para tv a cabo - **4GB** de memória (NAND flash)
+    - V2: com 3 tuners para tv a cabo (fixos) e opção de um tuner adicional: ISDB-T (terrestre) ou DVB-S/2 (satélite) - **8GB** de memória (NAND flash)
 - Current firmware version: **2017-06-29** - [download](#firmwares-para-o-pixel)
 - OSCAM Version: **OSCAM 30.1.17**
 - Android version: **5.1.1** (Lollipop)
 - [Android rooting](http://www.androidcentral.com/root): **SIM** (não oficial - [forum](https://freesatelitalhd.com/forum/index.php?topic=6926.0) - [download](https://mega.nz/#!gvIwDQSD!CSBfMmP5zbbZUh7ioAsfR0qu3vhvS9eGgi77u56630Q) - [instalação](#e-como-faço-para-rootear-colocar-em-modo-root-o-pixel))
 - Kodi version: **16.1** 
 - Kodi skin: **Confluence**
+- Tuner para satélite - modelo: DVB-S2 ACM/CCM 
+- Tuner terrrestre - modelos: SBTVD/ISBD-Tb (DVB-T)
+
+
+# Sinal
+
+- IKaS tv a cabo: funcionando sem problemas nas [regiões em que é disponiblizado](#ikas-free-atto-cidades-atendidas)
+- KS alternativo: disponível em divesas regiões, mas não é tão estável quanto o IKaS
+- CCSS: suportado
+- IKaS Sat: ainda sem previsão
+- SKaS: não suportado
 
 
 # Downloads
@@ -336,6 +350,16 @@ Esse [post](https://freesatelitalhd.com/forum/index.php?topic=6229.msg128632#msg
  
 ### O Pixel está dando "tela preta" e alguns comandos param de funcionar
 Normalmente isso é um problema do Kodi e não do Pixel. Quando falta espaço em disco no Kodi. Pra ter certeza, reinicie o Pixel, entre em Sistema > Informações sobre o sistema (menu debaixo da opção) > Armazenamento e veja se o /storage/sdcard está cheio. Se estiver você vai ter que liberar espaço pro Kodi. 
+
+### Os tuner para tv a cabo funcionam juntos com o tuner ISDB-T ou DVB-S/2?
+Sim. Instale o novo tuner (DVB-S/2 ou ISDB-T), que deverão aparecer 4 tuners na busca ao invés de 3.
+
+### O Pixel já vem com tuner para satélite ou terrestre?
+Não, os tuners satélite e ISDB-T são vendidos separadamente, entre em contato com a loja que vendeu o Pixel para maiores informações.
+
+### Posso usar os 3 tipos de tuners no mesmo Pixel?
+Não, os tuners para tv a cabo são fixos 
+Não, os tuners satélite e ISDB-T são vendidos separadamente, entre em contato com a loja que vendeu o Pixel para maiores informações.
 
 ### Como eu faço para liberar mais espaço para o Kodi?
 A maneira mais fácil é transferir/mover todos os dados do Kodi para outro disco. Este tutorial ensina como fazer: http://kodi.wiki/view/HOW-TO:Change_data_location_for_Android. 
