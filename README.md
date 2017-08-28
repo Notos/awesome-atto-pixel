@@ -34,8 +34,9 @@
 
 # Tópicos importantes no fórum oficial
 
+- [Atto Pixel](https://freesatelitalhd.com/forum/index.php?board=43.0)
 - [Pixel Cabo e Sat](https://freesatelitalhd.com/forum/index.php?topic=7259.0)
-
+- [Dúvidas gerais Atto Pixel](https://freesatelitalhd.com/forum/index.php?topic=6898.0)
  
 # Sinal
 
