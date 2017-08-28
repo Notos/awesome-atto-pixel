@@ -17,8 +17,8 @@
 * [Enigma2 for Pixel](#enigma2-for-pixel)
 * [FAQ - Perguntas frequentes](#perguntas-frequentes)
 
-
 # Ficha técnica
+
 - Versões: 
     - V1: com 3 tuners para tv a cabo - **4GB** de memória (NAND flash)
     - V2: com 3 tuners para tv a cabo (fixos) e opção de um tuner adicional: ISDB-T (terrestre) ou DVB-S/2 (satélite) - **8GB** de memória (NAND flash)
@@ -31,7 +31,11 @@
 - Tuner para satélite - modelo: DVB-S2 ACM/CCM 
 - Tuner terrrestre - modelos: SBTVD/ISBD-Tb (DVB-T)
 
+# Tópicos importantes no fórum oficial
 
+- [Pixel Cabo e Sat](https://freesatelitalhd.com/forum/index.php?topic=7259.0)
+
+ 
 # Sinal
 
 - IKaS tv a cabo: funcionando sem problemas nas [regiões em que é disponiblizado](#ikas-free-atto-cidades-atendidas)
