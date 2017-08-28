@@ -32,12 +32,15 @@
 - Tuner para satélite - modelo: DVB-S2 ACM/CCM 
 - Tuner terrrestre - modelos: SBTVD/ISBD-Tb (DVB-T)
 
+
 # Tópicos importantes no fórum oficial
 
 - [Atto Pixel](https://freesatelitalhd.com/forum/index.php?board=43.0)
 - [Pixel Cabo e Sat](https://freesatelitalhd.com/forum/index.php?topic=7259.0)
 - [Dúvidas gerais Atto Pixel](https://freesatelitalhd.com/forum/index.php?topic=6898.0)
- 
+- [Status IKAS/SKS](https://freesatelitalhd.com/forum/index.php?board=21.0)
+
+
 # Sinal
 
 - IKaS tv a cabo: funcionando sem problemas nas [regiões em que é disponiblizado](#ikas-free-atto-cidades-atendidas)
