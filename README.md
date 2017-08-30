@@ -365,6 +365,8 @@ Sim, há relato de gente usando em TV 720p (1.280 x 720 pixels). Isso significa 
 
 ## Em caso de problemas mais graves
 
+Atenção: Esses procedimentos apagam todos os addons apk e todas as configurações!
+
 ### Recovery do Atto Pixel (V1 e V2) via USB
 
 Caso o seu Pixel tenha um problema 
