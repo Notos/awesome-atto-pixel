@@ -317,14 +317,6 @@ As cidades não listadas não têm suporte a IKaS Free
 - [Kodi Livres de Erros e Ares Wizard](https://www.youtube.com/watch?v=tgVdvFI7gPM&feature=youtu.be)
 - [Como Resolver problema de Mute no KODI (sem som)](https://youtu.be/uwE8Sm6IAV0)
 
-# Perguntas frequentes
-### O Pixel é realmente 4K?
-Sim
-
-### O Pixel funciona com qualquer TV ou apenas as 4K?
-Sim, há relato de gente usando em TV 720p (1.280 x 720 pixels). Isso significa que ele vai funciona em TVs 1080i e 1080p também, além das 4K.
-
-
 # Atualização / Recovery / Hardware reset
 
 ## Esta é a atualização básica, que você vai usar no dia-a-dia 
@@ -391,6 +383,14 @@ Caso o seu Pixel tenha um problema
 - Fique de olho na tela (se tiver ligado algum, porém não é mandatório) enquanto o reset estiver em andamento
 - O Pixel irá reiniciar sozinho após termino do reset e irá aparecer "HOME" no display de LED. Pronto, agora atualize normalmente
 
+
+# Perguntas frequentes
+
+### O Pixel é realmente 4K?
+Sim
+
+### O Pixel funciona com qualquer TV ou apenas as 4K?
+Sim, há relato de gente usando em TV 720p (1.280 x 720 pixels). Isso significa que ele vai funciona em TVs 1080i e 1080p também, além das 4K.
 
 ### Como faz pra instalar o Atto Play?
 Esse [post](https://freesatelitalhd.com/forum/index.php?topic=6229.msg128632#msg128632), do @leandrotsampa, explica como instalar e tem muitas informações. [Este vídeo](https://www.youtube.com/embed/riSJ7pjLRNk) também é uma excelente referência. Basicamente:
