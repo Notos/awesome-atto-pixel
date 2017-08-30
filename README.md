@@ -7,7 +7,7 @@
 * [Ficha técnica do Pixel](#ficha-técnica)
 * [Tópicos importantes no fórum oficial](#tópicos-importantes-no-fórum-oficial)
 * [Firmwares](#firmwares-para-o-pixel)
-* [Atualização / Recovery / Hardware reset](#atualização-recovery-hardware-reset)
+* [Atualização / Recovery / Hardware reset](#atualização--recovery--hardware-reset)
 * [Hardware Reset](#hardware-reset)
 * [Downloads](#downloads)
 * [Procedimento de atualização do firmware](#como-atualizar-o-firmware) 
