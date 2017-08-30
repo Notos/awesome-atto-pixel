@@ -327,7 +327,7 @@ Sim, há relato de gente usando em TV 720p (1.280 x 720 pixels). Isso significa 
 
 # Atualização / Recovery / Hardware reset
 
-## Esta é a atualização básica, que você vai usar no dia-a-dia. 
+## Esta é a atualização básica, que você vai usar no dia-a-dia 
 
 ### Como atualizar o firmware (V1 e V2)
 
@@ -365,7 +365,7 @@ Os itens abaixo devem ser seguidos passo-a-passo:
 
 ## Em caso de problemas mais graves
 
-### Recovery do Atto Pixel (V1 e V2) via USB:
+### Recovery do Atto Pixel (V1 e V2) via USB
 
 Caso o seu Pixel tenha um problema 
 
@@ -380,7 +380,7 @@ Caso o seu Pixel tenha um problema
 - Fique de olho na tela (se tiver ligado algum, porém não é mandatório) enquanto o recovery estiver em andamento
 - O Pixel irá reiniciar sozinho após termino do recovery e irá aparecer "HOME" no display de LED. Pronto, agora atualize normalmente
 
-### Hardware Reset do Atto Pixel (V1 e V2):
+### Hardware Reset do Atto Pixel (V1 e V2)
 
 - Desligue o seu aparelho Atto Pixel da energia (retire a fonte)
 - Retire qualquer outro dispositivo do conector USB do aparelho
