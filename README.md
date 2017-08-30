@@ -107,6 +107,11 @@
 - **Spotify For AndroidTV 1.3.1** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!IyAB0BRQ!vSzFinsRwQbuOBeggNg1YxDRXjpVE9VBToZX8v1Ry64)
 - **Spotify 8.4.4** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!tuJV2IBI!Vn5tSosHBURXiTTs4IjXuppxVCIj-Pq_G00qq_REMKU)
 
+### Enigma2
+
+2017-08-25 - [EM BREVE]
+
+
 # Atualização / Recovery / Hardware reset
 
 ## Esta é a atualização básica, que você vai usar no dia-a-dia 
@@ -173,10 +178,6 @@ Caso o seu Pixel tenha um problema
 - Fique de olho na tela (se tiver ligado algum, porém não é mandatório) enquanto o reset estiver em andamento
 - O Pixel irá reiniciar sozinho após termino do reset e irá aparecer "HOME" no display de LED. Pronto, agora atualize normalmente
 
-
-### Enigma2
-
-2017-08-25 - [EM BREVE]
 
 # Debian Linux for Pixel
 Que tal rodar um LINUX completo dentro do seu Android?
