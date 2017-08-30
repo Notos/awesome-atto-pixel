@@ -7,6 +7,8 @@
 * [Ficha técnica do Pixel](#ficha-técnica)
 * [Tópicos importantes no fórum oficial](#tópicos-importantes-no-fórum-oficial)
 * [Firmwares](#firmwares-para-o-pixel)
+* [Atualização / Recovery / Hardware reset](#atualização-recovery-hardware-reset)
+* [Hardware Reset](#hardware-reset)
 * [Downloads](#downloads)
 * [Procedimento de atualização do firmware](#como-atualizar-o-firmware) 
 * [Revendas](#revendedores-confiáveis)
@@ -322,7 +324,13 @@ Sim
 ### O Pixel funciona com qualquer TV ou apenas as 4K?
 Sim, há relato de gente usando em TV 720p (1.280 x 720 pixels). Isso significa que ele vai funciona em TVs 1080i e 1080p também, além das 4K.
 
-# Como atualizar o firmware
+
+# Atualização / Recovery / Hardware reset
+
+## Esta é a atualização básica, que você vai usar no dia-a-dia. 
+
+### Como atualizar o firmware (V1 e V2)
+
 Os itens abaixo devem ser seguidos passo-a-passo:
 
 - Para redefinir o Android para as configurações de fábrica, faça:
@@ -353,7 +361,34 @@ Os itens abaixo devem ser seguidos passo-a-passo:
     1. Add-ons (EXIT até não aparecer mais ".." no menu)
     1. Instalar via repositório
     1. "Atto Pixel 4K Repository"
-    1. Instalar todos os add-ons em cada categoria.
+    1. Instalar todos os add-ons em cada categoria
+
+## Em caso de problemas mais graves
+
+### Recovery do Atto Pixel (V1 e V2) via USB:
+
+Caso o seu Pixel tenha um problema 
+
+- Baixe o  ultimo arquivo "update-atto-pixel-xxxxxxxx.upk" e mova para um pendrive ligado na USB da frente do iSmart
+- Troque/altere/mude o nome do arquivo de "update-atto-pixel-xxxxxxxx.upk" para "update.upk"
+- Não siga pra frente se não tiver no pendrive o arquivo com nome "update.upk" ou se o arquivo estiver em uma pasta do pendrive
+- Confirme o tamanho do arquivo na raiz do pendrive: deverá ter um tamanho superior á 200 MB. Entre 200 a 400 MB. Isso mesmo, bem grande
+- Plugue ou conecte o pendrive na entrada, conector, porta USB da frente do Pixel
+- Retire qualquer outro dispositivo do conector USB na parte traseira do aparelho
+- Com o seu aparelho Pixel desligado e sem energia (sem a fonte), pressione suavemente e mantenha pressionado o botão da na frente do aparelho. Não pressione com muita força ou acaba estragando o botão
+- Mantendo o botão pressionado ligue a fonte
+- Fique de olho na tela (se tiver ligado algum, porém não é mandatório) enquanto o recovery estiver em andamento
+- O Pixel irá reiniciar sozinho após termino do recovery e irá aparecer "HOME" no display de LED. Pronto, agora atualize normalmente
+
+### Hardware Reset do Atto Pixel (V1 e V2):
+
+- Desligue o seu aparelho Atto Pixel da energia (retire a fonte)
+- Retire qualquer outro dispositivo do conector USB do aparelho
+- Com o seu aparelho Pixel desligado e sem energia (sem a fonte), pressione suavemente e mantenha pressionado o botão da na frente do aparelho. Não pressione com muita força ou acaba estragando o botão
+- Mantendo o botão pressionado ligue a fonte
+- Fique de olho na tela (se tiver ligado algum, porém não é mandatório) enquanto o reset estiver em andamento
+- O Pixel irá reiniciar sozinho após termino do reset e irá aparecer "HOME" no display de LED. Pronto, agora atualize normalmente
+
 
 ### Como faz pra instalar o Atto Play?
 Esse [post](https://freesatelitalhd.com/forum/index.php?topic=6229.msg128632#msg128632), do @leandrotsampa, explica como instalar e tem muitas informações. [Este vídeo](https://www.youtube.com/embed/riSJ7pjLRNk) também é uma excelente referência. Basicamente:
