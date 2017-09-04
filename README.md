@@ -7,6 +7,8 @@
 * [Ficha técnica do Pixel](#ficha-técnica)
 * [Tópicos importantes no fórum oficial](#tópicos-importantes-no-fórum-oficial)
 * [Firmwares](#firmwares-para-o-pixel)
+* [Atualização / Recovery / Hardware reset](#atualização--recovery--hardware-reset)
+* [Hardware Reset](#hardware-reset)
 * [Downloads](#downloads)
 * [Procedimento de atualização do firmware](#como-atualizar-o-firmware) 
 * [Revendas](#revendedores-confiáveis)
@@ -108,6 +110,74 @@
 ### Enigma2
 
 2017-08-25 - [EM BREVE]
+
+
+# Atualização / Recovery / Hardware reset
+
+## Esta é a atualização básica, que você vai usar no dia-a-dia 
+
+### Como atualizar o firmware (V1 e V2)
+
+**Os itens abaixo devem ser seguidos passo-a-passo**:
+
+1. Para redefinir o Android para as configurações de fábrica, faça:
+    - Home (tecla "casinha") 
+    - Settings 
+    - Fazer backup e redefinir 
+    - Configuração original
+    - Redefinir tablet
+    - Apagar tudo
+
+2. Ligue e desligue o aparelho
+
+3. Para atualizar usando o arquivo de update "update-atto-pixel-v00XX.upk", faça:
+    - Coloque o arquivo em um pendrive (ou HD USB) e plugue na USB do aparelho
+    - Home (tecla "casinha") 
+    - Media Center
+    - Store
+    - USB3.0
+    - Vá até o arquivo e clique OK
+    - Responda YES para a pergunta "Do you want to upgrade ?"
+
+4. Reinicie mais uma vez, se ele não fizer isso sozinho e o Kodi deve voltar ao normal
+
+5. Instale TODOS os add-ons no repositório "Atto Pixel 4K Repository":
+    - Live TV (tecla "televisão com antena")
+    - Sistema
+    - Ajustes
+    - Add-ons (EXIT até não aparecer mais ".." no menu)
+    - Instalar via repositório
+    - "Atto Pixel 4K Repository"
+    - Instalar todos os add-ons em cada categoria
+
+## Em caso de problemas mais graves
+
+Atenção: Esses procedimentos apagam todos os addons apk e todas as configurações!
+
+### Recovery do Atto Pixel (V1 e V2) via USB
+
+Caso o seu Pixel tenha um problema 
+
+- Baixe o  ultimo arquivo "update-atto-pixel-xxxxxxxx.upk" e mova para um pendrive ligado na USB da frente do iSmart
+- Troque/altere/mude o nome do arquivo de "update-atto-pixel-xxxxxxxx.upk" para "update.upk"
+- Não siga pra frente se não tiver no pendrive o arquivo com nome "update.upk" ou se o arquivo estiver em uma pasta do pendrive
+- Confirme o tamanho do arquivo na raiz do pendrive: deverá ter um tamanho superior á 200 MB. Entre 200 a 400 MB. Isso mesmo, bem grande
+- Plugue ou conecte o pendrive na entrada, conector, porta USB da frente do Pixel
+- Retire qualquer outro dispositivo do conector USB na parte traseira do aparelho
+- Com o seu aparelho Pixel desligado e sem energia (sem a fonte), pressione suavemente e mantenha pressionado o botão da na frente do aparelho. Não pressione com muita força ou acaba estragando o botão
+- Mantendo o botão pressionado ligue a fonte
+- Fique de olho na tela (se tiver ligado algum, porém não é mandatório) enquanto o recovery estiver em andamento
+- O Pixel irá reiniciar sozinho após termino do recovery e irá aparecer "HOME" no display de LED. Pronto, agora atualize normalmente
+
+### Hardware Reset do Atto Pixel (V1 e V2)
+
+- Desligue o seu aparelho Atto Pixel da energia (retire a fonte)
+- Retire qualquer outro dispositivo do conector USB do aparelho
+- Com o seu aparelho Pixel desligado e sem energia (sem a fonte), pressione suavemente e mantenha pressionado o botão da na frente do aparelho. Não pressione com muita força ou acaba estragando o botão
+- Mantendo o botão pressionado ligue a fonte
+- Fique de olho na tela (se tiver ligado algum, porém não é mandatório) enquanto o reset estiver em andamento
+- O Pixel irá reiniciar sozinho após termino do reset e irá aparecer "HOME" no display de LED. Pronto, agora atualize normalmente
+
 
 # Debian Linux for Pixel
 Que tal rodar um LINUX completo dentro do seu Android?
@@ -315,45 +385,14 @@ As cidades não listadas não têm suporte a IKaS Free
 - [Kodi Livres de Erros e Ares Wizard](https://www.youtube.com/watch?v=tgVdvFI7gPM&feature=youtu.be)
 - [Como Resolver problema de Mute no KODI (sem som)](https://youtu.be/uwE8Sm6IAV0)
 
+
 # Perguntas frequentes
+
 ### O Pixel é realmente 4K?
 Sim
 
 ### O Pixel funciona com qualquer TV ou apenas as 4K?
 Sim, há relato de gente usando em TV 720p (1.280 x 720 pixels). Isso significa que ele vai funciona em TVs 1080i e 1080p também, além das 4K.
-
-# Como atualizar o firmware
-Os itens abaixo devem ser seguidos passo-a-passo:
-
-- Para redefinir o Android para as configurações de fábrica, faça:
-    1. Home (tecla "casinha") 
-    1. Settings 
-    1. Fazer backup e redefinir 
-    1. Configuração original
-    1. Redefinir tablet
-    1. Apagar tudo
-
-- Ligue e desligue o aparelho
-
-- Para atualizar usando o arquivo de update "update-atto-pixel-v00XX.upk", faça:
-    1. Coloque o arquivo em um pendrive (ou HD USB) e plugue na USB do aparelho
-    1. Home (tecla "casinha") 
-    1. Media Center
-    1. Store
-    1. USB3.0
-    1. Vá até o arquivo e clique OK
-    1. Responda YES para a pergunta "Do you want to upgrade ?"
-
-- Reinicie mais uma vez, se ele não fizer isso sozinho e o Kodi deve voltar ao normal
-
-- Instale TODOS os add-ons no repositório "Atto Pixel 4K Repository":
-    1. Live TV (tecla "televisão com antena")
-    1. Sistema
-    1. Ajustes
-    1. Add-ons (EXIT até não aparecer mais ".." no menu)
-    1. Instalar via repositório
-    1. "Atto Pixel 4K Repository"
-    1. Instalar todos os add-ons em cada categoria.
 
 ### Como faz pra instalar o Atto Play?
 Esse [post](https://freesatelitalhd.com/forum/index.php?topic=6229.msg128632#msg128632), do @leandrotsampa, explica como instalar e tem muitas informações. [Este vídeo](https://www.youtube.com/embed/riSJ7pjLRNk) também é uma excelente referência. Basicamente:
