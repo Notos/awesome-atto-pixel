@@ -108,9 +108,7 @@
 - **Spotify 8.4.4** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!tuJV2IBI!Vn5tSosHBURXiTTs4IjXuppxVCIj-Pq_G00qq_REMKU)
 
 ### Enigma2
-
-2017-08-25 - [EM BREVE]
-
+- **enigma2_atto_pixel-20170913.img.tar.bz2 (2017-09-13)** - [Download](https://mega.nz/#!NRUBUagZ!FHg46L8eCMPHEk8Kf9ChDwPZ-XlUzg9I6-WkzxqY7uQ)
 
 # Atualização / Recovery / Hardware reset
 
