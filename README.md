@@ -41,7 +41,7 @@
 - [Pixel Cabo e Sat](https://freesatelitalhd.com/forum/index.php?topic=7259.0)
 - [Dúvidas gerais Atto Pixel](https://freesatelitalhd.com/forum/index.php?topic=6898.0)
 - [Status IKAS/SKS](https://freesatelitalhd.com/forum/index.php?board=21.0)
-
+- [Android + Enigma2 (dual boot)](https://freesatelitalhd.com/forum/index.php?topic=7267.0)
 
 # Sinal
 
@@ -222,6 +222,15 @@ OBS: Essa atualização server apenas para inicializar o Linux ou instalá-lo ca
 
 
 # Enigma2 for Pixel
+
+Link [para o tópico oficial no fórum](https://freesatelitalhd.com/forum/index.php?topic=7267.0).
+
+### Funcionalidades
+- TV (EPG, Streaming, Gravação, TimeShift) - **parcialmente**
+- Tuners (DVB-C, ISDB-T, DVB-S/S2) - **parcialmente**
+- Rede (LAN / WiFi)
+- Gerênciamento Remoto
+- Pastas Compartilhadas (CIFS, NFS)
 
 ### Instalando
 
