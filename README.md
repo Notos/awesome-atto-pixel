@@ -225,6 +225,10 @@ OBS: Essa atualização server apenas para inicializar o Linux ou instalá-lo ca
 
 Link [para o tópico oficial no fórum](https://freesatelitalhd.com/forum/index.php?topic=7267.0).
 
+### Mas afinal, o que é esse tal de Enigma2?
+
+Enigma2 é um software (front end) para TV, o objetivo principal dele é controlar zap entre canais de box de TV a cabo ou satélite, assim como a gravação e timeshift dos canais, tal qual o Kodi (que também é Media Center) e o Android TV. Esta versão roda sobre o sistema operacional OpenATV, que é baseado em Linux. A vantagem desta versão é que você tem acesso a coisas que não teria, hoje, no Pixel, como por exemplo o acesso direto aos canais via rede, podendo ver TV de qualquer lugar, usando um software tipo VLC. 
+
 ### Funcionalidades
 - TV (EPG, Streaming, Gravação, TimeShift) - **parcialmente**
 - Tuners (DVB-C, ISDB-T, DVB-S/S2) - **parcialmente**
