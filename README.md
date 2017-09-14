@@ -316,6 +316,10 @@ O acesso SMB está configurado e testado, o acesso FTP ainda não foi testado.
 
 O gerenciador de pacotes OPKG está disponível para instalar e atualizar pacotes. Comandos básicos
 
+### Transcoding
+
+Ainda não foi implementado, mas existem aplicações para o Enigma2, que podem ser instaladas no Pixel, tal como o [e2transcoder](http://e2transcoder.sharetext.net).
+
 ```
 opkg list
 opkg install <pacote>
