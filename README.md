@@ -253,7 +253,7 @@ Enigma2 é um software (front end) para TV, o objetivo principal dele é control
 
 Para usar a maioria dos serviços, você vai precisar do IP do Pixel, verifique no seu roteador qual é. Nos exemplos abaixo vamos usasr o IP 192.168.0.10.
 
-### Vendo TV fora do Pixel (via VLC ou outro player)
+### Assistindo TV fora do Pixel (via VLC ou outro player)
 
 Com o Enigma2 você pode ver TV de fora do Pixel, inclusive da rua. 
 
