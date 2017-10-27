@@ -108,7 +108,8 @@
 - **Spotify 8.4.4** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!tuJV2IBI!Vn5tSosHBURXiTTs4IjXuppxVCIj-Pq_G00qq_REMKU)
 
 ### Enigma2
-- **enigma2_atto_pixel-20170913.img.tar.bz2 (2017-09-13)** - [Download](https://mega.nz/#!NRUBUagZ!FHg46L8eCMPHEk8Kf9ChDwPZ-XlUzg9I6-WkzxqY7uQ)
+- **enigma2_atto_pixel-20171025.img.tar.bz2 (2017-25-10)** - [img](https://mega.nz/#!NF8A1AxC!Q1B0yVLNm9vNCYSVc-CIx6e4RCyEzLSvQt0_temILXc) - [files](https://mega.nz/#!NElTzYAC!qh6sWmRSKFrpPx8dRSV7P1RWDSj_6YeBN-42X3zDUqw)
+- **enigma2_atto_pixel-20171002.tar.bz2 (2017-10-02)** - [img](https://mega.nz/#!NRUBUagZ!FHg46L8eCMPHEk8Kf9ChDwPZ-XlUzg9I6-WkzxqY7uQ) - [files](https://mega.nz/#!FckFGBib!6Pa5gHo6sw5eMkh-FUH2jFjy6Ny8HSCYCRXr2CfYBnk)
 
 # Atualização / Recovery / Hardware reset
 
@@ -252,6 +253,14 @@ Enigma2 é um software (front end) para TV, o objetivo principal dele é control
 
 Para usar a maioria dos serviços, você vai precisar do IP do Pixel, verifique no seu roteador qual é. Nos exemplos abaixo vamos usasr o IP 192.168.0.10.
 
+### Vendo TV fora do Pixel (via VLC ou outro player)
+
+Com o Enigma2 você pode ver TV de fora do Pixel, inclusive da rua. 
+
+1. Configure o [OpenWebif](#openwebif)
+1. Baixe ou gere o arquivo .m3u
+1. Adicione no player
+
 ### EPG
 
 Para habilitar a atualização automática do EPG, siga os seguintes passos:
@@ -302,6 +311,23 @@ Configure o acesso a ele:
 - Configure a porta (ex: 8082)
 - Habilite o acesso HTTP
 - Use um browser para acessar a URL http://192.168.0.10:8082.
+
+### Gerando arquivo .m3u para uso fora do Pixel
+
+- Baixe do Pixel o arquivo **lamedb**, que provavelmente estará na pasta **/etc/enigma2**
+- Acesse a página [Notos Tools](https://notos.space/tools)
+- Use o **LameDB Exporter** para gerar o arquivo
+- No campo `Service url & port` você pode colocar o endereço do Pixel na rede interna, ou um endereço DNS dinâmico (DynDNS) para ver TV da rua. 
+
+### Baixando arquivo .m3u direto do OpenWebif
+
+- Crie um bouquet com os canais que deseja ver
+- Abra o OpenWebif
+- Vá até os bouquets
+- Clique no ícone da TV ao lado do nome do bouquet
+- Pronto, o arquivo .m3u será baixando automaticamente
+
+![logo](img/download-m3u.jpg)
 
 ### Acesso SMB e FTP
 
