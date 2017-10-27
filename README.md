@@ -258,7 +258,7 @@ Para usar a maioria dos serviços, você vai precisar do IP do Pixel, verifique 
 Com o Enigma2 você pode ver TV de fora do Pixel, inclusive da rua. 
 
 1. Configure o [OpenWebif](#openwebif)
-1. Baixe ou gere o arquivo .m3u
+1. [Baixe](#gerando-arquivo-m3u-para-uso-fora-do-pixel) ou [gere](#gerando-arquivo-m3u-para-uso-fora-do-pixel) o arquivo .m3u
 1. Adicione no player
 
 ### EPG
