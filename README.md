@@ -401,6 +401,7 @@ As cidades não listadas não têm suporte a IKaS Free
 
 
 # Vídeos relacionados
+- [Netflix + Kodi 18](https://youtu.be/5UEqyEiyYXI)
 - [Unboxing](https://www.youtube.com/watch?time_continue=2&v=cjdZ_eUyIZ8)
 - [Busca de canais por NIT](https://www.youtube.com/watch?v=_tF5DPvvc6M)
 - [Demo da troca de canais](https://www.youtube.com/watch?v=FF5fY26EAr8)
