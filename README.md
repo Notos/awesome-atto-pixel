@@ -83,6 +83,7 @@
 - **linux.tar.xz** (2017-08-15) - [download](https://mega.nz/#!cAtECQQY!_ewjT4CObz6dQ0WG8tFBCUO8xtgVnBFo1kwyoascZJQ)
 
 ### Kodi Repositories
+- **Atto Official Repository 0.2.1 (4K)** (2017-01-30) - [download](https://mega.nz/#!83IhmZra!h_tMdoHGxHC7JsC80scaoPjclke9ti-MnFuH9Rdgnjk)
 - **Atto Official Repository 0.0.3** (2017-04-01) - [download](https://mega.nz/#!pypEFBxA!ivQaj6YdrNeNu8Mih3ZcTIGA16H1DDJMlKno359iXN4)
 - **Atto repository** [download](https://drive.google.com/open?id=0B5SEgLDAf1L7RG9IY0lqVVdGWGs)
 - **Husham Repository 1.1.003** (2017-04-25) - [site](http://www.husham.com/husham-repo/) - [download](https://mega.nz/#!pqARTYIS!sF2QKaqcfF1VKHFnZ2ZKSFwX929NhlyomiMSjW-SVpk)
@@ -430,6 +431,7 @@ As cidades não listadas não têm suporte a IKaS Free
 - [Vídeo 4k - Tutorial + uso do PlaylisTV](https://www.youtube.com/watch?v=0LMqnU1i-ew&t=77s)
 - [Kodi Livres de Erros e Ares Wizard](https://www.youtube.com/watch?v=tgVdvFI7gPM&feature=youtu.be)
 - [Como Resolver problema de Mute no KODI (sem som)](https://youtu.be/uwE8Sm6IAV0)
+- [Limpeza automática do Kodi](https://youtu.be/aDDenqzGO8U)
 
 
 # Perguntas frequentes
