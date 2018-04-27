@@ -57,6 +57,8 @@
 
 ### Firmwares para o Pixel
 
+https://mega.nz/#!ABlC0AzY!ogbOD4USMu8ddtz3fWIvz8IK2-tK3cB_HfcU1KHrSdA
+
 - **v2018.04.05** - md5: a6668a570344f75b75afb9ad8a3650fb - [ftp](ftp://creator.uhd.net.br/update-atto-pixel-20180405.upk) - [http](http://creator.uhd.net.br/update-atto-pixel-20180405.upk) - [mega](https://mega.nz/#!h2B2kLab!uxWmxpkuMXk2a6pkR5MPOpvyIjpO_PjvxhQfvVb4Zuk) - [onedrive](https://1drv.ms/u/s!AhkUg3JqHAsKgsAITivN3cQbP7Usbw)
 - **v2017.10.20** - md5: d57e116982bde53272dd535083e4c192 - [download](http://bit.ly/2zjp9zS) - [changelog](https://freesatelitalhd.com/forum/index.php?topic=7472.0)
 - **v2017.07.24** - md5: f6f9d4e76fd5d19cf6b93cef9abc0918 - [download](http://ow.ly/cXTk30dXGll) - [link 2](http://ow.ly/4W6b30dXGiL) - [link 3](https://mega.nz/#!Yvw2QaSa!A-ibvHRMvHD2ZZog35rb21A2bI0RLg7_xUFu-ZinKac) - **NÃO OFICIAL** 
@@ -112,9 +114,14 @@
 - **Spotify For AndroidTV 1.3.1** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!IyAB0BRQ!vSzFinsRwQbuOBeggNg1YxDRXjpVE9VBToZX8v1Ry64)
 - **Spotify 8.4.4** (2017-05-30) - [apkmirror](http://www.apkmirror.com/apk/spotify-ltd/) - [download](https://mega.nz/#!tuJV2IBI!Vn5tSosHBURXiTTs4IjXuppxVCIj-Pq_G00qq_REMKU)
 
-### Enigma2
+### Enigma2 - Imagens
+- **enigma2_atto_pixel-20180417.img.tar.bz2 (2018-04-17)** - [mega](https://mega.nz/#!IJ9mgCQZ!Ny_oHX-mP1zc-Eoi7wTtKcf2_-K1Uvp_752P3MPVbzE)
 - **enigma2_atto_pixel-20171025.img.tar.bz2 (2017-25-10)** - [img](https://mega.nz/#!NF8A1AxC!Q1B0yVLNm9vNCYSVc-CIx6e4RCyEzLSvQt0_temILXc) - [files](https://mega.nz/#!NElTzYAC!qh6sWmRSKFrpPx8dRSV7P1RWDSj_6YeBN-42X3zDUqw)
 - **enigma2_atto_pixel-20171002.tar.bz2 (2017-10-02)** - [img](https://mega.nz/#!NRUBUagZ!FHg46L8eCMPHEk8Kf9ChDwPZ-XlUzg9I6-WkzxqY7uQ) - [files](https://mega.nz/#!FckFGBib!6Pa5gHo6sw5eMkh-FUH2jFjy6Ny8HSCYCRXr2CfYBnk)
+
+### Enigma2 - Updates
+Esses updates são obrigatórios para o uso do Enigma
+- **enigma2_atto_pixel-20180417.upk (2018-04-1)** - [mega](https://mega.nz/#!ABlC0AzY!ogbOD4USMu8ddtz3fWIvz8IK2-tK3cB_HfcU1KHrSdA)
 
 # Atualização / Recovery / Hardware reset
 
