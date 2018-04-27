@@ -5,6 +5,7 @@
 # Menu
 
 * [Ficha técnica do Pixel](#ficha-técnica)
+* [Atto Player App](#atto-player-app)
 * [Tópicos importantes no fórum oficial](#tópicos-importantes-no-fórum-oficial)
 * [Firmwares](#firmwares-para-o-pixel)
 * [Atualização / Recovery / Hardware reset](#atualização--recovery--hardware-reset)
@@ -107,6 +108,10 @@ https://mega.nz/#!ABlC0AzY!ogbOD4USMu8ddtz3fWIvz8IK2-tK3cB_HfcU1KHrSdA
 - **Indigo 1.0.4 - plugin.program.indigo-1.0.4** (2017-03-31) - [official Page](http://fusion.tvaddons.ag/begin-here/) - [download](http://fusion.tvaddons.ag/begin-here/plugin.program.indigo-1.0.4.zip) - [link 2](https://mega.nz/#!onJUUT5C!78RkBr_Z-B2YwkMWGwTEMQQYzvkMX9Ma39CRgXhmnBU)
 - **Specto 2016.02.06.3 - plugin.video.specto-2016.02.06.3** (2016-02-06) - [official Page](http://kodi.filmkodi.com/plugin.video.specto/) - [download](http://kodi.filmkodi.com/plugin.video.specto/plugin.video.specto-2016.02.06.3.zip) - [link 2](https://mega.nz/#!1y4l2A4S!5FqUX6lsZgqkvvPI_8KO3Y4NSSN3LHhwCUVLerJEVZ0)
 - **Lembretes (PVR reminder) 2017.07.31.0 - service.pixel.lembretes** (2017-07-31) - [official Page](https://github.com/josemoraes99/pixel.lembretes/) - [download](https://github.com/josemoraes99/pixel.lembretes/raw/master/service.pixel.lembretes.zip) - [link 2](https://mega.nz/#!FnIQxITb!0BhV74DUyt1EnuLzYNuYWvRLpGgQkzmtpW97_i-9MQQ)
+
+### Atto Player App
+Para Android.
+- **AttoPlayer-v0115.apk** (2018) - [mega](https://mega.nz/#!wnZnWARa!1t7BRJVRUik8mCvtIZZa1riiXmo03oWCMSX_nJrPKPk)
 
 ### Apps for Android
 - **Netflix 4.16 build 200147** (2017-05-20) - [download](https://mega.nz/#!cnpzFSAA!bZkq8ewpP0C1bZCKh26GmG73xa_BBXSjxhmeGdScI_A)
