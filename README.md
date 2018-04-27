@@ -54,8 +54,11 @@
 
 # Downloads
 
+
 ### Firmwares para o Pixel
-- **v2017.10.20** - md5: d57e116982bde53272dd535083e4c192 - [download](http://bit.ly/2zjp9zS) - [changelog](https://freesatelitalhd.com/forum/index.php?topic=7472.0) 
+
+- **v2018.04.05** - md5: a6668a570344f75b75afb9ad8a3650fb - [ftp](ftp://creator.uhd.net.br/update-atto-pixel-20180405.upk) - [http](http://creator.uhd.net.br/update-atto-pixel-20180405.upk) - [mega](https://mega.nz/#!h2B2kLab!uxWmxpkuMXk2a6pkR5MPOpvyIjpO_PjvxhQfvVb4Zuk) - [onedrive](https://1drv.ms/u/s!AhkUg3JqHAsKgsAITivN3cQbP7Usbw)
+- **v2017.10.20** - md5: d57e116982bde53272dd535083e4c192 - [download](http://bit.ly/2zjp9zS) - [changelog](https://freesatelitalhd.com/forum/index.php?topic=7472.0)
 - **v2017.07.24** - md5: f6f9d4e76fd5d19cf6b93cef9abc0918 - [download](http://ow.ly/cXTk30dXGll) - [link 2](http://ow.ly/4W6b30dXGiL) - [link 3](https://mega.nz/#!Yvw2QaSa!A-ibvHRMvHD2ZZog35rb21A2bI0RLg7_xUFu-ZinKac) - **NÃO OFICIAL** 
 - **v2017.06.29** - md5: f43d1b227da39aec65b0b40d16ae9569 - [download](http://ow.ly/vF1V30d7me4) - [link 2](http://ow.ly/M7UB30d7mwU) - [link 3](http://ow.ly/qiWF30d7mAS) - [link 4](http://ow.ly/AEth30d7wL0) - [changelog](https://freesatelitalhd.com/forum/index.php?topic=7121.0) 
 - **v2017.05.08** - md5: bd370abd42224ba444bca730fcf8e9f8 - [download](http://ow.ly/Zt2Q30bzcbq) - [link 2](http://ow.ly/1vE630bzcd4) - [link 3](http://ow.ly/nRIT30bzcfL) - [link 4](https://mega.nz/#!Yq5C1QIZ!R-oMRZoSCdfVCBrYVFplKwSPWD6-WiYL4zziRLSus0g) - [link 5](https://mega.nz/#!0hdBhQaR!sm21AZo5pm967Br4BdYr7uamaLlPCU9NnfF_gsJgVXY) - **OTA**
