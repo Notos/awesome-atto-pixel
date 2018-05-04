@@ -409,13 +409,6 @@ As cidades não listadas não têm suporte a IKaS Free
 #### Rio de Janeiro - RJ
 - Rio de Janeiro (Grande Rio, incluindo Pechincha), Duque de Caxias, Nova Iguaçú, Seropédica, São Gonçalo, Niterói e Rio das Ostras  
 
-#### Paraná - PR
-- Curibita, Colombo, Campo Largo, Almirante Tamandaré, Araucária, São josé dos Pinhais, Rio Branco do Sul
-
-#### Rio Grande do Suk - RS
-- Porto Alegre e Canoas
-
-
 # Vídeos relacionados
 - [Netflix + Kodi 18](https://youtu.be/5UEqyEiyYXI)
 - [Unboxing](https://www.youtube.com/watch?time_continue=2&v=cjdZ_eUyIZ8)
