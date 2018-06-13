@@ -394,8 +394,8 @@ O preço médio do equipamento gira hoje entre R$ 560 (menor preço encontrado) 
 - [Open HD Forum - Status IKaS](http://freesatelitalhd.com/forum/index.php?board=21.0)
 
 ### Grupos de WhatsApp e Telegram
-- Atto Pixel Oficial (Telegram - canal) - [convite](https://t.me/attooficial)
-- Atto Pixel Oficial (Telegram - sala de bate papo) - [convite](https://t.me/attooficial)
+- Atto Pixel Oficial ([Telegram](https://telegram.org/) - canal) - [convite](https://t.me/attooficial)
+- Atto Pixel Oficial ([Telegram](https://telegram.org/) - sala de bate papo) - [convite](https://t.me/attooficial)
 - Atto Pixel Oficial (WhatsApp)- [convite](https://chat.whatsapp.com/KtJGxvU6dck4p0WBxmai3g)
 - Atto Desenvolvedores (WhatsApp) - [convite](https://chat.whatsapp.com/1SfWUhMFAkCCRCEnnhkCzz)
 - Android Média Center - [convite - WhatsApp](https://chat.whatsapp.com/IHwKOpZLxWICLUyBW3qCDF)
