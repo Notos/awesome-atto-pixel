@@ -387,15 +387,17 @@ O preço médio do equipamento gira hoje entre R$ 560 (menor preço encontrado) 
 - [HK Mania](mailto:hkmania@hotmail.com) - tel/zap: 11-98544-6379 - fixo: 11-3225-0829 (Elizabeth, Carol ou Houssen) 
     - R. Aurora, 200 lj 228 - S. Ifigênia 
 
-
 # Comunidade 
 ### Fóruns de suporte
 - [Open HD Forum - Pixel](http://freesatelitalhd.com/forum/index.php?topic=6898.225#lastPost)
 - [Open HD Forum - Pixel - Android rooting](https://freesatelitalhd.com/forum/index.php?topic=6926.0)
 - [Open HD Forum - Status IKaS](http://freesatelitalhd.com/forum/index.php?board=21.0)
+
 ### Grupos de WhatsApp e Telegram
-- Atto Pixel Oficial - [convite - WhatsApp](https://chat.whatsapp.com/KtJGxvU6dck4p0WBxmai3g)
-- Atto Desenvolvedores - [convite - WhatsApp](https://chat.whatsapp.com/1SfWUhMFAkCCRCEnnhkCzz)
+- Atto Pixel Oficial (Telegram - canal) - [convite](https://t.me/attooficial)
+- Atto Pixel Oficial (Telegram - sala de bate papo) - [convite](https://t.me/attooficial)
+- Atto Pixel Oficial (WhatsApp)- [convite](https://chat.whatsapp.com/KtJGxvU6dck4p0WBxmai3g)
+- Atto Desenvolvedores (WhatsApp) - [convite](https://chat.whatsapp.com/1SfWUhMFAkCCRCEnnhkCzz)
 - Android Média Center - [convite - WhatsApp](https://chat.whatsapp.com/IHwKOpZLxWICLUyBW3qCDF)
 - Android Mídia Center - [convite - Telegram](https://t.me/joinchat/AAAAAD_UHoVSkO-UFX2IBA)
 - CineClub - [Telegram Channel](https://telegram.me/AppCineClub) 
