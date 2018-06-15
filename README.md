@@ -58,8 +58,6 @@
 
 ### Firmwares para o Pixel
 
-https://mega.nz/#!ABlC0AzY!ogbOD4USMu8ddtz3fWIvz8IK2-tK3cB_HfcU1KHrSdA
-
 - **v2018.04.05** - md5: a6668a570344f75b75afb9ad8a3650fb - [ftp](ftp://creator.uhd.net.br/update-atto-pixel-20180405.upk) - [http](http://creator.uhd.net.br/update-atto-pixel-20180405.upk) - [mega](https://mega.nz/#!h2B2kLab!uxWmxpkuMXk2a6pkR5MPOpvyIjpO_PjvxhQfvVb4Zuk) - [onedrive](https://1drv.ms/u/s!AhkUg3JqHAsKgsAITivN3cQbP7Usbw)
 - **v2017.10.20** - md5: d57e116982bde53272dd535083e4c192 - [download](http://bit.ly/2zjp9zS) - [changelog](https://freesatelitalhd.com/forum/index.php?topic=7472.0)
 - **v2017.07.24** - md5: f6f9d4e76fd5d19cf6b93cef9abc0918 - [download](http://ow.ly/cXTk30dXGll) - [link 2](http://ow.ly/4W6b30dXGiL) - [link 3](https://mega.nz/#!Yvw2QaSa!A-ibvHRMvHD2ZZog35rb21A2bI0RLg7_xUFu-ZinKac) - **NÃO OFICIAL** 
@@ -126,7 +124,7 @@ Para Android.
 
 ### Enigma2 - Updates
 Esses updates são obrigatórios para o uso do Enigma
-- **enigma2_atto_pixel-20180417.upk (2018-04-1)** - [mega](https://mega.nz/#!ABlC0AzY!ogbOD4USMu8ddtz3fWIvz8IK2-tK3cB_HfcU1KHrSdA)
+- **enigma2_atto_pixel-20180417.upk (2018-04-17)** - [mega](https://mega.nz/#!ABlC0AzY!ogbOD4USMu8ddtz3fWIvz8IK2-tK3cB_HfcU1KHrSdA)
 
 # Atualização / Recovery / Hardware reset
 
